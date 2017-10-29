@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /experience/jibo-sdk
 venue: "Jibo Inc."
 date: 2015-05-19
+enddate: 2016-12-31
 location: "Boston, MA"
 ---
 

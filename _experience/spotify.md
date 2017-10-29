@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /experience/spotify
 venue: "Spotify Inc."
 date: 2014-05-20
+enddate: 2014-10-20
 location: "Somerville, MA"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bachelors of Science in Computer Science and Cognitive and Brain Science"
-collection: talks
+collection: education
 type: "Tutorial"
 permalink: /education/tufts
 venue: "Tufts University"

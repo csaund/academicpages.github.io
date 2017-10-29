@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/csaund_resume.pdf">Download Here</a>
+
 Education
 ======
 * B.S. in Computer Science, Cognitive Science, Tufts University, 2015

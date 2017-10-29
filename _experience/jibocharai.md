@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /experience/jibo-cai
 venue: "Jibo Inc."
 date: 2017-01-01
+enddate: 2017-08-08
 location: "Boston, MA"
 ---
 

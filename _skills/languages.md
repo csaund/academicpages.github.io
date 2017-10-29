@@ -1,7 +1,8 @@
 ---
 title: "Languages"
-collection: skills
-permalink: /skills/languages
-excerpt: 'Javascript, Python, C/C++, Java, CSS, HTTP, LISP'
+collection: experience
+type: "Workshop"
+permalink: /experience/TA
+---
 ---
 Javascript, Python, C/C++, Java, CSS, HTTP, LISP

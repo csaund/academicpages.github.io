@@ -3,7 +3,7 @@ title: "Senior Software Engineer"
 collection: experience
 type: "Undergraduate course"
 permalink: /experience/cogito
-venue: "Jibo Inc."
+venue: "Cogito Corp."
 date: 2017-08-08
 location: "Boston, MA"
 ---
