@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Carolyn Saund"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Carolyn Saund"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Carolyn Saund"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Software Engineer, Emotional Programmer, Guac Enthusiast"
+  location         : "Boston, MA"
+  employer         : "Cogito Corp, Jibo Inc"
+  googlescholar    :
+  email            : "carolyn.saund@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "csaund"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/carolyn-saund-89b90b63/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "CarolynBot"
   vine             :
   weibo            :
   xing             :
@@ -169,16 +169,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  skills:
     output: true
     permalink: /:collection/:path/
-  publications:
+  experience:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  education:
     output: true
     permalink: /:collection/:path/
 
@@ -203,37 +203,37 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _skills
   - scope:
-      path: ""
-      type: teaching
+      path: "skills"
+      type: skills
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _experience
   - scope:
-      path: ""
-      type: publications
+      path: "experience"
+      type: experience
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # projects
   - scope:
-      path: ""
-      type: portfolio
+      path: "projects"
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _education
   - scope:
-      path: ""
-      type: talks
+      path: "education"
+      type: education
     values:
       layout: talk
       author_profile: true
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
