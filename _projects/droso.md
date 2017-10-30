@@ -2,6 +2,8 @@
 title: "Drosophila"
 excerpt: "Genetic algorithms applied to LED badges <br/><img src='/images/droso.gif'>"
 collection: portfolio
+date: 2017-06-23
+enddate: 'none'
 ---
 
 <img src='images/drosophila.jpg'>

@@ -2,6 +2,8 @@
 title: "Emotional System"
 excerpt: "Bi-Axial Emotional System<br/><img src='/images/emotion.png'>"
 collection: portfolio
+date: 2017-03-15
+enddate: 'none'
 ---
 
 Bi-Axial Emotional System
