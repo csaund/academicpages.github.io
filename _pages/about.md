@@ -9,13 +9,8 @@ redirect_from:
 ---
 
 I recieved my B.S. in Computer Science and Cognitive and Brain Sciences from Tufts University in May 2015, where my focus was in Machine Learning and Artificial Intelligence. I intend to pursue these in graduate studies in Fall 2018.
- 
-I am motivated by passion. Whatever the task, being surrounded by passionate people brings out my most inspired and creative work. I love working in teams small enough to personally interact with each member every day, and take as easily to leading a project I care about as I do to following a team lead's vision.
 
-Empathy is the ideal I cling to most strongly. Empathy increases humans ability to connect with one another, and build a stronger global community - together.
-
-I am a shameless and reckless world traveller, and jump at the chance to adventure. I've visited over 20 countries by myself, and fully intent to continue seeing as much of the world as I can in this life. Travel increases my global perspective, and exposes me to new ways of solving problems through a wider lens. Travel is my most valuable empathetic tool.
-
+I'd like to build computational tools to understand the role emotion plays in communication, both between humans and between humans and machines. I am particularly interested in building tools to improve empathetic communication for disabled and underserved populations, and for extremely emotionally polarizing conversations. 
 
 <!-- Getting started -->
 <!-- ====== -->
