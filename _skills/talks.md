@@ -15,3 +15,5 @@ excerpt: 'SXSW - Robot Petting Zoo,
           Boston ML Meetup - presenter on Innovations in Human-ComputerInterfaces,
           MLHack Championships - technical workshop & hackathon judge,
           Tufts WICS Conference - Presentation on the future of Voice Powered Interfaces'
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuH_iaANSq0?start=336" frameborder="0" allowfullscreen></iframe>          
