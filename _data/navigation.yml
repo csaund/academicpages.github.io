@@ -1,19 +1,22 @@
 # main links links
 main:
-  - title: "Skills"
+  - title: ""
     url: /skills/
 
-  - title: "Experience"
+  - title: ""
     url: /experience/
-    
+
+  - title: "Service"
+    url: /service/
+
   - title: "Projects"
     url: /projects/
-
-  - title: "Education"
-    url: /education/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+    
+  - title: ""
+    url: /education/

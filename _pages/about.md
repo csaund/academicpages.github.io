@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I recieved my B.S. in Computer Science and Cognitive and Brain Sciences from Tufts University in May 2015, where my focus was in Machine Learning and Artificial Intelligence. I intend to pursue these in graduate studies in Fall 2018.
+I recieved my B.S. in Computer Science and Cognitive and Brain Sciences from 
+Tufts University in May 2015, where my focus was in Machine Learning and 
+Artificial Intelligence. I intend to pursue these in graduate studies in Fall
+ 2018.
 
-I'd like to build computational tools to understand the role emotion plays in communication, both between humans and between humans and machines. I am particularly interested in building tools to improve empathetic communication for disabled and underserved populations, and for extremely emotionally polarizing conversations. 
+I'd like to build computational tools to understand the role emotion plays in
+ communication, both between humans and between humans and machines. I am 
+ particularly interested in building tools to improve empathetic communication
+  for disabled and underserved populations, and for extremely emotionally
+   polarizing conversations. 
+   
+You can find my [CV here](https://csaund.github.io/cv) which will include my 
+[skills](https://csaund.github.io/skills), [experience](https://csaund.github.io/experience),
+and [education](https://csaund.github.io/education). 
 
 <!-- Getting started -->
 <!-- ====== -->
