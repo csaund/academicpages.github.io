@@ -20,8 +20,7 @@ I'd like to build computational tools to understand the role emotion plays in
    polarizing conversations. 
    
 You can find my [CV here](https://csaund.github.io/cv) which will include my 
-[skills](https://csaund.github.io/skills), [experience](https://csaund.github.io/experience),
-and [education](https://csaund.github.io/education). 
+[skills](https://csaund.github.io/skills) and [experience](https://csaund.github.io/experience).
 
 <!-- Getting started -->
 <!-- ====== -->
