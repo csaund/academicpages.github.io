@@ -3,23 +3,24 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I recieved my B.S. in Computer Science and Cognitive and Brain Sciences from 
-Tufts University in May 2015, where my focus was in Machine Learning and 
-Artificial Intelligence. I intend to pursue these in graduate studies in Fall
- 2018.
+I received my B.S. in Computer Science and Cognitive and Brain Sciences from
+Tufts University in May 2015, where my focus was in Machine Learning and
+Artificial Intelligence. Currently, I am studying for my masters in Neuroscience
+and Psychology at University of Glasgow, with intention to continue to doctoral
+studies under the supervision of Dr. Stacy Marsella and Dr. Philippe Schyns.
 
 I'd like to build computational tools to understand the role emotion plays in
- communication, both between humans and between humans and machines. I am 
- particularly interested in building tools to improve empathetic communication
-  for disabled and underserved populations, and for extremely emotionally
-   polarizing conversations. 
-   
-You can find my [CV here](https://csaund.github.io/cv) which will include my 
+ communication, both between humans and between humans and machines. I am additionally
+ interested in functional cognitive architectures, and novel machine learning
+ techniques which are not "black box" but which instead mimic the brain's biological
+ infrastructure and abilities.
+
+You can find my [CV here](https://csaund.github.io/cv) which will include my
 [skills](https://csaund.github.io/skills) and [experience](https://csaund.github.io/experience).
 
 <!-- Getting started -->

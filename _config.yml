@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carolyn Saund"
 title_separator          : "-"
 name                     : &name "Carolyn Saund"
-description              : &description "personal description"
+description              : &description "PhD Student at University of Glasgow"
 url                      : https://csaund.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "csaund/csaund.github.io"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "CarolynBot"
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Carolyn Saund"
   avatar           : "profile.png"
-  bio              : "Software Engineer, Emotional Programmer, Guac Enthusiast"
-  location         : "Boston, MA"
-  employer         : "Cogito Corp, Jibo Inc"
+  bio              : "PhD Student at University of Glasgow, previously Cogito Corp, Jibo. She | Hers"
+  location         : "Glasgow, UK"
+  employer         : "University of Glasgow"
   googlescholar    :
   email            : "carolyn.saund@gmail.com"
   uri              :
