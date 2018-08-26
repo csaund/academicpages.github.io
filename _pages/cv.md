@@ -18,11 +18,17 @@ Education
 
 Work experience
 ======
-* Cogito Corp., August 2017 - Present
-  * Originally Implemented and manage release pipeline.
-  * Full-stack development of Role-Based User Management (RBUM) APIs.
+* Cogito Corp., August 2017 - August 2018
+  * Platform Team Lead
+    * Merged two software teams, technically and personally managed team of 10 full-time engineers.
+    * Oversaw top-to-bottom development and implementation of three client-facing features.
+    * Hired and onboarded three product managers, including one for another software team.
+    * Acted as Scrum master implementing leading agile rituals (standup, planning, retro).
+  * Senior Software Engineer
+    * Originally Implemented and manage release pipeline.
+    * Full-stack development of Role-Based User Management (RBUM) APIs.
 
-* Jibo Inc., May 2015 - Present
+* Jibo Inc., May 2015 - October 2017
   * Software Consultant
     * Continuing work to rearchitect APIs in cloud-based architecture.
   * Character AI Developer
@@ -79,9 +85,14 @@ Skills
 
 Leadership + Community Service
 ======
-* Cambridge Inventors Club, Jan 2016 - Present
+* Cambridge Inventors Club, Jan 2016 - May 2018
   * Work with children age 8-13 on engineering fundamentals, such as iterative design,retrospectives, and cooperation
-* Boston Ultimate Disc Alliance, March 2016 - Sept 2016
+* Resilient Coders, Jan 2018 - May 2018
+  * Corporate sponsor and technical mentor for Resilient Coders --
+  an organization which trains non-traditional background adult students to become software developers.
+  I developed a 8-week "boot camp" curriculum for two students who were ultimately
+  able to use Cogito APIs to create a product MVP.
+* Boston Ultimate Disc Alliance, March 2016 - Sept 2017
   * First coach on new high school girls team, focused on empowering women in the Boston ultimate community
 * Girls Who Code, Sept 2015 - June 2016
   * Instructed three levels of middle- and high-school aged students from introduction to basic data strcutures. Supplemented given
