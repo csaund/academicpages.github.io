@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Skills"
+  - title: ""
     url: /skills/
 
-  - title: "Experience"
+  - title: "Work Experience"
     url: /experience/
 
-  - title: "Service"
+  - title: "Community Service"
     url: /service/
 
   - title: "Projects"
