@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Cognitive Science, Tufts University, 2015
-* B.S. Year Abroad, University of Canterbury, Christchurch, NZ
+* B.S. in Cognitive and Brain Scinces, Computer Science, Tufts University, 2015
+* Msc in Neuroscience and Psychology, University of Glasgow, 2019 (expected)
 
 Work experience
 ======
@@ -42,39 +42,39 @@ Work experience
   * Supervisor: Dr. Tristan Jehan
   * Full stack development of internal desktop application.
   * Developed web APIs and GUI for music annotation tools
-  
-* Teaching Assistant, Jan 2012 - May 2015 
+
+* Teaching Assistant, Jan 2012 - May 2015
   * Supervisors: Professors Carla Brodley, Benjamin Hescott, Norman Ramsay, Matthias Scheutz
   * Data Structures, Machine Architecture, Machine Learning
   * Taught theory and laboratory skills to students with wide range of abilities
-    
+
 * Research Assistant, Jan 2012 - Dec 2012
   * Supervisor: Prof. David Kaplan
   * Researched Silk scaffolds with neurostimulants
   * Developed new directional freezing method which cut experiment time by half.
-  
+
 Skills
 ======
 * Languages
-  * Javascript 
+  * Javascript
   * Python
   * C
-  * C++ 
+  * C++
   * Java
-  * LISP 
+  * LISP
   * CSS/HTTP
   * R
 * Workflows+Frameworks
-  * git/github 
-  * NodeJS/React 
-  * SVN 
-  * Unix/Linux 
-  * Jenkins/TDD 
+  * git/github
+  * NodeJS/React
+  * SVN
+  * Unix/Linux
+  * Jenkins/TDD
   * CI releases
-  * Stash 
-  * Phabricator/arcanist 
+  * Stash
+  * Phabricator/arcanist
   * Gradle
-  * MongoDB 
+  * MongoDB
   * Electron
 
 Leadership + Community Service
@@ -108,4 +108,3 @@ course materials with additional lesson plans to emphasize CS fundamentals.
   <!-- <ul>{% for post in site.teaching %} -->
     <!-- {% include archive-single-cv.html %} -->
   <!-- {% endfor %}</ul> -->
-  
