@@ -1,12 +1,13 @@
 ---
-title: "Instructor"
+title: "Girls Who Code"
 collection: education
 type: "Tutorial"
 permalink: /service/gwc
-venue: "Girls Who Code"
+venue: "Instructor"
 date: 2015-09-14
 enddate: 2016-05-28
-location: "Belmond, MA"
+location: "Belmont, MA"
 ---
 
-Instructor for Girls Who Code
+Supplemented GWC given curriculum with weekly lessons on computer science basics,
+work presentations and demos, and artists who employ technology in their work.

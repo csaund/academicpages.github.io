@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /experience/cogito
 venue: "Cogito Corp."
 date: 2017-08-08
+enddate: 2017-12-31
 location: "Boston, MA"
 ---
 
