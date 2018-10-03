@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assitant"
 collection: experience
-type: "Workshop"
+type: "Full time job"
 permalink: /experience/TA
 venue: "Tufts University, Department of Computer Science"
 date: 2012-01-18

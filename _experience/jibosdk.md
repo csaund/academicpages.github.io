@@ -1,7 +1,7 @@
 ---
 title: "Robot SDK Developer"
 collection: experience
-type: "Undergraduate course"
+type: "Full time job"
 permalink: /experience/jibo-sdk
 venue: "Jibo Inc."
 date: 2015-05-19
@@ -13,7 +13,8 @@ location: "Boston, MA"
 <li>Designed a series of tutorials from ”Getting Started” to advanced usage still used to onboard internal and external developers.</li> <li>Architected data APIs for dev tools to manage robot sensory input from cameras and microphones. </li>
 <li>Implemented frontend UI (React) and developer interfaces to build high-level skills.</li>
 <li>Won inaugural company culture award for "outstanding cultural contributions."</li>
-</ul>
+
+
 <!-- Heading 1 -->
 <!-- ====== -->
 
