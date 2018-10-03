@@ -8,9 +8,9 @@ date: 2017-08-08
 enddate: 2017-12-31
 location: "Boston, MA"
 ---
-
-Full-stack development of Role-Based User Management (RBUM) APIs.
-
+<ul>
+<li>Full-stack development of Role-Based User Management (RBUM) APIs.</li>
+</ul>
 <!-- Heading 1 -->
 <!-- ====== -->
 

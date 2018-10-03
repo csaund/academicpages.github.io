@@ -8,9 +8,9 @@ date: 2014-05-20
 enddate: 2014-10-20
 location: "Somerville, MA"
 ---
-
-Full stack development of internal desktop application. • Developed web APIs and GUI for music annotation tools.
-
+<ul>
+<li>Full stack development of internal desktop application. • Developed web APIs and GUI for music annotation tools.</li>
+</ul>
 <!-- Heading 1 -->
 <!-- ====== -->
 

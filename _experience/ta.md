@@ -8,9 +8,10 @@ date: 2012-01-18
 enddate: 2015-05-05
 location: "Somerville, MA"
 ---
-
-TA for CS courses: Introductory, Data Structures, Assembly Language Programming, and Machine Learning. 
-
+<ul>
+<li>TA for CS courses: Introductory, Data Structures, Assembly Language Programming, and Machine Learning. </li>
+<li>Participated in redesigning course curriculum for Machine Architecture and Assembly Language Programming </li>
+</ul>
 <!-- Heading 1 -->
 <!-- ====== -->
 
