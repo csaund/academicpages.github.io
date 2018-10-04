@@ -10,8 +10,8 @@ redirect_from:
 
 I received my BSc in Computer Science and Cognitive and Brain Sciences from
 Tufts University in May 2015, where I focused in Machine Learning and
-Artificial Intelligence. Currently, I am studying for my <b>Msc in Neuroscience
-and Psychology at University of Glasgow</b>, with intention to continue to doctoral
+Artificial Intelligence. Currently, I am studying for my <b>Msc in Research Methods for
+Psychological Sciences</b>, with intention to continue to doctoral
 studies under the supervision of Dr. Stacy Marsella and Dr. Philippe Schyns.
 
 My current work is creating a <b>generative gesture system for virtual humans </b>
