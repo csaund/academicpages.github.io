@@ -1,5 +1,5 @@
 ---
-title: "Girls Who Code"
+title: "Citizenship / Girls Who Code"
 collection: education
 type: "Tutorial"
 permalink: /service/gwc

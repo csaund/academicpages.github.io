@@ -1,5 +1,5 @@
 ---
-title: "Girls Computer Club"
+title: "Citizenship / Girls Computer Club"
 collection: education
 type: "Tutorial"
 permalink: /service/gcc

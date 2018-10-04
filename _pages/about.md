@@ -29,8 +29,7 @@ Generally, I am interested in building and evaluating <b>computational tools to 
  techniques which are not "black box," but which instead mimic the brain's biological
  infrastructure and abilities.
 
-You can find my [CV here](https://csaund.github.io/cv) which will include my
-[skills](https://csaund.github.io/skills) and [experience](https://csaund.github.io/experience).
+You can find my [CV here](https://csaund.github.io/cv)
 
 <!-- Getting started -->
 <!-- ====== -->
