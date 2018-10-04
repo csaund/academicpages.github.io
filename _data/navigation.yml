@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: ""
-    url: /skills/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Work Experience"
+  - title: "Public Speaking Events" # this is skills
+    url: /publicspeaking/
+
+  - title: "Industry Experience"
     url: /experience/
 
-  - title: "Community Service"
+  - title: "Service"
     url: /service/
 
   - title: "Projects"
@@ -14,9 +17,6 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
 
   - title: ""
     url: /education/
