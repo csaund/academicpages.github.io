@@ -10,7 +10,7 @@ location: "Boston, MA"
 ---
 <ul>
 <li>Employee 20(/110)
-<li>Designed a series of tutorials from ”Getting Started” to advanced usage still used to onboard internal and external developers.</li> <li>Architected data APIs for dev tools to manage robot sensory input from cameras and microphones. </li>
+<li>Designed a series of tutorials from ”Getting Started” to advanced usage to onboard internal and external developers.</li> <li>Architected data APIs for dev tools to manage robot sensory input from cameras and microphones. </li>
 <li>Implemented frontend UI (React) and developer interfaces to build high-level skills.</li>
 <li>Won inaugural company culture award for "outstanding cultural contributions."</li>
 

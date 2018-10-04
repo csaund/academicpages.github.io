@@ -10,7 +10,8 @@ location: "Somerville, MA"
 ---
 <ul>
 <li>TA for CS courses: Introductory, Data Structures, Assembly Language Programming, and Machine Learning. </li>
-<li>Participated in redesigning course curriculum for Machine Architecture and Assembly Language Programming </li>
+<li>Ran labs, graded assignments, held open office hours and 1-1 tutoring sessions. </li>
+<li>Participated in redesigning course curriculum for Machine Architecture and Assembly Language Programming. </li>
 </ul>
 <!-- Heading 1 -->
 <!-- ====== -->

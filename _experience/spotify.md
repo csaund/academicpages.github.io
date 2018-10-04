@@ -9,7 +9,7 @@ enddate: 2014-10-20
 location: "Somerville, MA"
 ---
 <ul>
-<li>Full stack development of internal desktop application.</li>
+<li>Full stack feature development of internal desktop application.</li>
 <li>Developed web APIs and GUI for music annotation tools.</li>
 </ul>
 <!-- Heading 1 -->

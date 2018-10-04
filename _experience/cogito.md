@@ -9,7 +9,8 @@ enddate: 2017-12-31
 location: "Boston, MA"
 ---
 <ul>
-<li>Full-stack development of Role-Based User Management (RBUM) APIs.</li>
+<li>Full-stack development of Role-Based User Management (RBUM) APIs</li>
+<li>Front-end React feature development</li>
 </ul>
 <!-- Heading 1 -->
 <!-- ====== -->

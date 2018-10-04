@@ -10,7 +10,7 @@ location: "Boston, MA"
 ---
 <ul>
 <li>Designed and implemented robotic bi-axial Emotion System and corresponding impacts on robot behavior. </li>
-<li>Fully and maintained robot listening pipeline (main interface for interaction).</li>
+<li>Fully implemented and maintained robot listening pipeline (main interface for interaction).</li>
 </ul>
 <!-- Heading 1 -->
 <!-- ====== -->
