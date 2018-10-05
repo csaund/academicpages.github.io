@@ -15,16 +15,16 @@ Psychological Sciences</b>, with intention to continue to doctoral
 studies under the supervision of Dr. Stacy Marsella and Dr. Philippe Schyns.
 
 My current work is creating a <b>generative gesture system for virtual humans </b>
- to study how gesture can help virtual and robotic agents better communicate with and
- instill trust in human-agent interactions. At the same time, I am using combined MEG and
+ to study how gesture can help virtual and robotic agents better communicate with humans, and
+ instill trust during human-agent interactions. At the same time, I am using combined MEG and
  fMRI imaging to determine <b>how
  our brain integrates features of motion in visual perception</b> to make judgements about
  the communicative meaning of these gestures. In this sense, <b>I hope to make both a
  "bottom-up" neurological and a "top-down" behavioral analysis of gestural communication
- to have a fuller picture of human-agent communication.</b>
+ to obtain a fuller picture of human-agent communication.</b>
 
 Generally, I am interested in building and evaluating <b>computational tools to understand the role emotion plays in
- communication</b>, both between humans and between humans and machines. I am additionally
+ communication</b>, both between humans, and between humans and machines. I am additionally
  interested in functional cognitive architectures, and novel machine learning
  techniques which are not "black box," but which instead mimic the brain's biological
  infrastructure and abilities.
