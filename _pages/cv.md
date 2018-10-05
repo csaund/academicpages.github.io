@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please <a href="/files/csaund_resume.pdf">download a copy of my cv here</a>
+Please [download a copy of my CV here](/files/csaund_resume.pdf)
 
 <!--
 Education
@@ -119,4 +119,4 @@ course materials with additional lesson plans to emphasize CS fundamentals.
 <!-- ====== -->
   <!-- <ul>{% for post in site.teaching %} -->
     <!-- {% include archive-single-cv.html %} -->
-  <!-- {% endfor %}</ul> --> 
+  <!-- {% endfor %}</ul> -->
