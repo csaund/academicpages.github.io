@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/csaund_resume.pdf">Download Here</a>
+Please <a href="/files/csaund_resume.pdf">download a copy of my cv here</a>
 
+<!--
 Education
 ======
 * B.S. in Cognitive and Brain Scinces, Computer Science, Tufts University, 2015
@@ -118,4 +119,4 @@ course materials with additional lesson plans to emphasize CS fundamentals.
 <!-- ====== -->
   <!-- <ul>{% for post in site.teaching %} -->
     <!-- {% include archive-single-cv.html %} -->
-  <!-- {% endfor %}</ul> -->
+  <!-- {% endfor %}</ul> --> 

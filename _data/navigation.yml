@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Public Speaking Events" # this is skills
-    url: /publicspeaking/
+  - title: "Public Speaking" # this is skills
+    url: /talks/
 
   - title: "Industry Experience"
     url: /experience/
@@ -15,7 +15,7 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: ""
