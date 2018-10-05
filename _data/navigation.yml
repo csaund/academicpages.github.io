@@ -6,10 +6,10 @@ main:
   - title: "Public Speaking" # this is skills
     url: /talks/
 
-  - title: "Industry Experience"
+  - title: "Experience"
     url: /experience/
 
-  - title: "Service"
+  - title: "Service & Memberships"
     url: /service/
 
   - title: "Projects"

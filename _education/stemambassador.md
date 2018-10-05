@@ -4,7 +4,7 @@ collection: education
 type: "Tutorial"
 permalink: /service/stemambassador
 venue: "Volunteer"
-date: 2018-10-04
+date: 2018-10-03
 location: "Glasgow, UK"
 ---
 
