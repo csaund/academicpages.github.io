@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+You can download my [CV here](/files/csaund_resume.pdf)
+
 I received my BSc in Computer Science and Cognitive and Brain Sciences from
 Tufts University in May 2015, where I focused in Machine Learning and
 Artificial Intelligence. Afterwards, I spent three years as a <b>Software
@@ -31,8 +33,6 @@ Generally, I am interested in building and evaluating <b>computational tools to 
  interested in functional cognitive architectures, and novel machine learning
  techniques which are not "black box," but which instead mimic the brain's biological
  infrastructure and abilities.
-
-You can download my [CV here](/files/csaund_resume.pdf)
 
 <!-- Getting started -->
 <!-- ====== -->
