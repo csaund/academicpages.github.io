@@ -10,7 +10,10 @@ redirect_from:
 
 I received my BSc in Computer Science and Cognitive and Brain Sciences from
 Tufts University in May 2015, where I focused in Machine Learning and
-Artificial Intelligence. Currently, I am studying for my <b>Msc in Research Methods for
+Artificial Intelligence. Afterwards, I spent three years as a <b>Software
+Engineer and Manager</b> at Jibo Inc. (social robotics) and Cogito Corp. (emotional AI).
+
+Currently, I am studying for my <b>Msc in Research Methods for
 Psychological Sciences</b>, with intention to continue to doctoral
 studies under the supervision of Dr. Stacy Marsella and Dr. Philippe Schyns.
 
