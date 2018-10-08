@@ -4,6 +4,7 @@ collection: education
 type: "Tutorial"
 permalink: /service/academicmemberships
 location: "Glasgow, UK"
+date: 2018-10-10
 ---
 
 <ul>
