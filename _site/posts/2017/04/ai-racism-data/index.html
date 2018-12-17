@@ -1,0 +1,504 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>AI, Racism, and Bad Data - Carolyn Saund</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Carolyn Saund">
+<meta property="og:title" content="AI, Racism, and Bad Data">
+
+
+  <link rel="canonical" href="https://csaund.github.io/posts/2017/04/ai-racism-data/">
+  <meta property="og:url" content="https://csaund.github.io/posts/2017/04/ai-racism-data/">
+
+
+
+  <meta property="og:description" content="Dark skin and Scottish accents and societally engrained biases, oh my!">
+
+
+
+  <meta name="twitter:site" content="@CarolynBot">
+  <meta name="twitter:title" content="AI, Racism, and Bad Data">
+  <meta name="twitter:description" content="Dark skin and Scottish accents and societally engrained biases, oh my!">
+  <meta name="twitter:url" content="https://csaund.github.io/posts/2017/04/ai-racism-data/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2017-04-19T00:00:00-04:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Carolyn Saund",
+      "url" : "https://csaund.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://csaund.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Carolyn Saund Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://csaund.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://csaund.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://csaund.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://csaund.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://csaund.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://csaund.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://csaund.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://csaund.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://csaund.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://csaund.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://csaund.github.io/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://csaund.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://csaund.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://csaund.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://csaund.github.io/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://csaund.github.io/">Carolyn Saund</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/cv/">CV</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/talks/">Public Speaking</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/experience/">Experience</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/service/">Service & Memberships</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/projects/">Projects</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/year-archive/">Blog</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/education/"></a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://csaund.github.io/images/profile.png" class="author__avatar" alt="Carolyn Saund">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Carolyn Saund</h3>
+    <p class="author__bio">PhD Student at University of Glasgow, previously Cogito Corp, Jibo. She/Hers</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Glasgow, UK</li>
+      
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> University of Glasgow</li>
+      
+      
+      
+        <li><a href="mailto:carolyn.saund@gmail.com"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+      
+      
+      
+        <li><a href="https://twitter.com/CarolynBot"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/carolyn-saund-89b90b63"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/csaund"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="AI, Racism, and Bad Data">
+    <meta itemprop="description" content="Dark skin and Scottish accents and societally engrained biases, oh my!">
+    <!--<meta itemprop="datePublished" content="April 19, 2017">-->
+    <!---->
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">AI, Racism, and Bad Data
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  6 minute read
+	
+</p>
+          
+        <!---->
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2017-04-19T00:00:00-04:00">April 19, 2017</time></p>
+        
+        
+             
+        
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Dark skin and Scottish accents and societally engrained biases, oh my!</p>
+
+<h1 id="ya-done-goofd">Ya Done Goof’d</h1>
+<p>Google recently screwed the pooch with their image recognition.
+<br />
+<img src="/images/google.png" />
+<br />
+And who can forget Microsoft’s very own version of Tomi Lahren?
+<br />
+<img src="/images/tay.png" />
+<br />
+“humans are super cool” → “I hate the jews” &lt; 24hrs. Nice work, trolls.</p>
+
+<p>Tay perfectly represents the fact that the data we get from humans is shit, because there are a bunch of shit humans.
+The point is, Google and Microsoft responded to these upsets by acknowledging them. Microsoft immediately shut down Tay (not before the world got those sweet screenshots) and responded with</p>
+
+<p>We are deeply sorry for the unintended offensive and hurtful tweets from Tay, which do not represent who we are or what we stand for, nor how we designed Tay. Tay is now offline and we’ll look to bring Tay back only when we are confident we can better anticipate malicious intent that conflicts with our principles and values.</p>
+
+<p>Sorry, M Dawg, but the point is you didn’t design Tay. Microsoft created a bot for man to shape In His Own Image™, specifically void of direction or bias. And the point is just that: unbiased data begets bias. If the world is terrible, AI will learn to be terrible.
+If we randomly sample a room of computer science degrees, our data looks bad. If we want 100 pictures of faces to train our algorithm on, this is what our data looks like:
+<br />
+80 men, 20 women <br />
+58 white, 18 asian, 9 latino, 5 black, and 10 multiracial. <br />
+Shocking nobody, the way an algorithm will achieve the highest accuracy rate is by really nailing the most common demographics: white, male faces.</p>
+
+<h2 id="it-feels-like-the-first-time">It Feels Like The First Time</h2>
+<p>At my company, I was the first female voice that our bot heard. And the fact of the matter his he didn’t recognize what I was saying because the audio waveform that is generated when I speak into his microphones differed sufficiently from all his previous examples, that he couldn’t recognize my voice as saying his name. And that’s okay! For a long time, he had trouble with children’s voices, too, because it’s much easier to get an adult to stand around saying “hey robot,” for 30 repetitions during working hours at the office than it is to acquire kiddos for a robot-name-saying sweat shop.</p>
+
+<p>I work in robotics. As in, I write software that could be running anywhere, but happens to run on a little robot buddy, Bob, who sits on the counter, swivels towards you when he hears you come in, recognizes that he knows you, says “oh, good morning, Caro! Nice to see you today,” and makes a <em>wheee</em> noise. Or, he could be doing his own thing, and I could say “oh hey Bob,” and he might say “howdy Caro!” Then we share a smile and my day is made slightly better by the impression that my little bot is happy to see me.</p>
+
+<p>A big part of that is the “happy to see me,” part. In order for him to say “howdy Caro!” and not “top of the mornin’ to ya, Freddy,” or “well fancy meeting you here, Clyde,” he has to run a face or voice recognition algorithm on the inputs of his environment — namely, my face and voice. But the tricky part is obviously that my face and voice change depending on other factors in the environment; in a dark room my housemates might not even know I’m there, let alone recognize me. In an echo-y church with a truck driving by, my voice might be indistinguishable from my friends’. And that’s not even to mention that my face looks different from different angles, and my voice varies from Frog (when I wake up) to Drunk Hamster (when I’m highly caffeinated… or drunk).</p>
+
+<p>In order to be robust against these changes, Bob needs training data. Not only on me, but on what a face looks like. And in order to do that, he needs to look at a lot of faces. And in order to look at a lot of faces, the people who program Bob’s algorithms will probably show them their own face, a lot of times.</p>
+
+<p>And lo, the training data for these algorithms reflects the people who program them, and predominantly white, male, and middle-aged people become what Bob knows.</p>
+
+<p>See, it’s nobody’s fault that Bob has never seen the rainbow of people that exist throughout the world. Bob’s nursery </p>
+
+<p>Should we be cognizant when learning algorithms reflect biases that already exist in the world? Most assuredly, yes. But what I don’t get is the outrage, the hate, and the anti-tech sentiments that seem to follow. Just like people go out and learn social biases from one another, so too will algorithms specifically designed to learn from the humans that surround it. If you want, you can think of an AI as a baby, constantly absorbing and integrating every new piece of information in order to act similarly to other agents in its environment. And, just like when children hear their parents curse and consequently tell their teachers to go fuck themselves, AI bots and algorithms will be sexist, racist shitlords if they read every tweet ever.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAfevpoWtR4" frameborder="0" allowfullscreen=""></iframe>
+<p><br />
+I don’t really get it, but here, have some kids cussing.</p>
+
+<h2 id="how-we-gonna-fix-it-fix-it-fixit">How We Gonna Fix It, Fix It, Fix It</h2>
+<p>Baby, I gotta know. Can you fix my B-R-A-I-N? </p>
+
+<p>Oversampling from different populations; explicitly biasing your training data to do better. Hard to test, unless you GET MORE DATA.</p>
+
+<p>As my coworker says: 
+patrick [10:27] 
+We want Jibo to be the best he can be, but the world is a dark and scary place and so we must arm him with good morals and a solid work ethic before we send him out into the world alone.</p>
+
+<p>But as he also says:
+patrick [10:29]
+Of course, we can always OTA better morals. </p>
+
+<p>And that’s the moral [HA] of the story: AI as a field is improving. Constantly. Exponentially. Continuously (and also sometimes step-wise). As more and more (deserved) hype bubbles around this issue, researchers listen and make improvements. </p>
+
+<p>Is every research scientist an angel or a saint? No, of course not. But the most hardcore engineers are motivated by solving the friggin’ problem, and if the problem is that the state of the art face recognition algorithms can’t reliably recognize 14% of the US population, that’s at best an 86% success rate. And as my good friend Lemongrab says: UNACCEPTABLE.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/07So_lJQyqw" frameborder="0" allowfullscreen=""></iframe>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#ai" class="page__taxonomy-item" rel="tag">ai</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#data" class="page__taxonomy-item" rel="tag">data</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#social-justice" class="page__taxonomy-item" rel="tag">social justice</a>
+    
+    </span>
+  </p>
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=https://csaund.github.io/posts/2017/04/ai-racism-data/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://csaund.github.io/posts/2017/04/ai-racism-data/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=https://csaund.github.io/posts/2017/04/ai-racism-data/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://csaund.github.io/posts/2017/04/ai-racism-data/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://csaund.github.io/posts/2016/08/paradox-awareness/" class="pagination--pager" title="Paradox of Awareness
+">Previous</a>
+    
+    
+      <a href="https://csaund.github.io/posts/2017/07/on-fleece-pants/" class="pagination--pager" title="On Fleece Pants
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<!-- <a href="/sitemap/">Sitemap</a> -->
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/CarolynBot"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+      <li><a href="http://github.com/csaund"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://csaund.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 Carolyn Saund. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://csaund.github.io/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+

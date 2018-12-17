@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://csaund.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://csaund.github.io/" rel="alternate" type="text/html" /><updated>2018-10-08T13:47:09-04:00</updated><id>https://csaund.github.io/</id><title type="html">Carolyn Saund</title><subtitle>PhD Student at University of Glasgow</subtitle><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><entry><title type="html">Humans Especially Encourage To Apply: Why You Should Not Be Afraid Of Robots</title><link href="https://csaund.github.io/posts/2018/09/humans-especially-encouarged-to-apply/" rel="alternate" type="text/html" title="Humans Especially Encourage To Apply: Why You Should Not Be Afraid Of Robots" /><published>2018-09-12T00:00:00-04:00</published><updated>2018-09-12T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2018/09/blog-post-10</id><content type="html" xml:base="https://csaund.github.io/posts/2018/09/humans-especially-encouarged-to-apply/">&lt;p&gt;As a new PhD student, starting at a new university, in a new city, in a new country, I’ve found myself introducing my work to many new people lately. I have worked in and (plan to, remember, just started) study machine learning for social and emotional interactions in robots. I’ve experimented with many ways to introduce this topic: “emotional intelligence, but for robots,” “social robotics,” “machine learning for robotic emotions.” Try as I might, I always get some flavor of this response:&lt;/p&gt;
+
+&lt;p&gt;Oh, so you’re the one destroying the future?
+To which I roll my eyes. Hard.&lt;/p&gt;
+
+&lt;p&gt;That being said, I get why people have that response. I think about technology all day, every day. I’ve worked in industry, and researched in academia. Although I am young, I am one of relatively few people in the world who specializes in social interactions of robots (although it’s a quickly growing field). Not everybody’s life revolves day-in, day-out around the future of technology, so of course I do not expect everybody to think as much about these topics as I do.&lt;/p&gt;
+
+&lt;p&gt;This is why I so, so often find media coverage of emerging technology anywhere from disappointingly misleading, to downright enraging.&lt;/p&gt;
+
+&lt;p&gt;Although there are many examples of such articles, I write this as a specific response to a 2014 youtube video which I’ve had the pleasure of viewing a number of times, and was recently used by somebody to justify their criticism of my entire career. After watching this video, it’s no wonder the average intelligent human I come across is nervous about the future.&lt;/p&gt;
+
+&lt;p&gt;In this piece I hope to explain both how to spot fear-mongering tactics with media coverage of technology, and why the “robot revolution,” is, in fact, nothing to fear.&lt;/p&gt;
+
+&lt;p&gt;What I am NOT saying is “don’t think about the future.” Absolutely DO think about the future. Often! And, don’t be scared of it. Let me tell you why you should be excited!&lt;/p&gt;
+
+&lt;p&gt;This will come to you in three parts:&lt;/p&gt;
+
+&lt;p&gt;Act I: The Video
+Act II: Fear Mongering and Deception
+Act III: The Progress of Humanity&lt;/p&gt;
+
+&lt;h2 id=&quot;act-i-the-video&quot;&gt;Act I: The Video&lt;/h2&gt;
+&lt;p&gt;Grey begins with a fairly standard historical introduction of automation. The basic arguments one uses to assuage the fears of grandma at Thanksgiving, or crazy uncle Pete, who did the 60s a little too hard:&lt;/p&gt;
+
+&lt;p&gt;“Replacing human labor with mechanical muscles frees people to specialize, and that leaves everyone better off, even those still doing physical labor.”
+With this, I whole-heartedly agree. Because we look at history, and it’s always been true. “Luddite,” became a word in the english vocabulary because radical english textile workers felt their jobs were threatened by automation… and now we have more fashion designers, specialty embroiderers, and fabric choice than ever before. Historically, new technologies haven’t gotten rid of jobs, but created all new ones.&lt;/p&gt;
+
+&lt;p&gt;However, quickly after making this point, Grey states his thesis of the video: “This time, it’s different.”&lt;/p&gt;
+
+&lt;h3 id=&quot;low-skilled-bots&quot;&gt;Low-Skilled Bots&lt;/h3&gt;
+&lt;h3 id=&quot;industry-bots&quot;&gt;Industry Bots&lt;/h3&gt;
+&lt;p&gt;Grey starts by introducing Baxter with an annoyingly optimistic reading on its capabilities.&lt;/p&gt;
+
+&lt;p&gt;“Baxter can learn what you want him to do by watching you do it, and he costs less than the annual average salary of a human worker… he can do whatever work is within the reach of his arms.”
+What Grey fails to mention here are the extreme limitations within which Baxter can learn. One-shot learning is very much still not-a-thing in mechanical robotics, and robots even understanding where and how they can move their appendages is an active area of research… that doesn’t exactly look sexy (well, not to me). Path-planning for how to move a robotic arm from point A to point B is not a solved problem. Humans, on the other hand, can actually do what Grey shows in the video: watch a human perform an object manipulation, and repeat, instantly, infinitely, with many micro-differences in orientations, sizes, and shapes of the object. Baxter, straight up, can’t do that.&lt;/p&gt;
+
+&lt;p&gt;Additionally, Baxter lacks a key element of human workers: the ability to interact socially. There are entire fields of research dedicated to the many ways in which social ability improves the quality of interactions between humans and machines, which Baxter does not and likely will not ever have. This includes the ability to read the emotion of the teacher, which is an invaluable skill that human workers have in abundance. “Are they angry at me?” → “Did I just mess up in a way that is serious, and I should try to fix through iteration?”; “Are they afraid?” → “Did I just do something potentially dangerous, that I should avoid again at all costs?” While Baxter can watch and attempt to imitate, the word “learn” implies a level of ability that robots, right now, simply do not have.&lt;/p&gt;
+
+&lt;p&gt;My issue here is that Grey repeatedly pounds home the point that robots are now, when, in reality, with these two problems above plus many others which I fail to mention, I’d say that optimistically, robots are, maybe, 25 years from now. Rodney Brooks, “the father of AI,” happens to think it’s much further.&lt;/p&gt;
+
+&lt;p&gt;Grey also brings up how incredibly cheap robotic labor is:&lt;/p&gt;
+
+&lt;p&gt;“His hourly cost is pennies of electricity, while his meat-based competition costs minimum wage.”
+Indeed, this is true. Once Baxter is up and running (built, installed, and trained by a human, thankyouverymuch).&lt;/p&gt;
+
+&lt;p&gt;Or is it? For reference, the federal minimum wage in the United States is $7.25/hr. Ignoring the fact that this is reprehensibly and appallingly low, this gives us a base salary of just over $15k/year for a minimum wage worker. Baxter’s monumental startup cost, on the other hand, is $22k, which includes only a 1-year warranty of manual fixes and software upgrades (you can get an extended 3-year warranty for an additional fee). While I find Rethink Robotics to be a great, honest, and awesome company, they’re still a company, and they exist to make money. So after that first year, software upgrades cost money. Tesla, for example, charges $9000 for a software update, and that’s for a consumer product (which will always be less money than for a corporate deal, because companies have more money than people).&lt;/p&gt;
+
+&lt;p&gt;And why do you think an extended warranty costs extra? It’s because robots break. And high-use and high-precision robots break often. And you don’t know how to fix them, so they cost money to fix. A lot of money, because a highly-skilled human has to come in and fix them.&lt;/p&gt;
+
+&lt;p&gt;Bottom line: we are nowhere near automating even “teachable” low-skill jobs. And when it looks like we are, look closer: the cost for robots is often much, much higher than you think.&lt;/p&gt;
+
+&lt;h3 id=&quot;hospitality-bots&quot;&gt;Hospitality Bots&lt;/h3&gt;
+&lt;p&gt;Grey goes on to target hospitality workers and describe how robots are “coming for them,” by using two target examples: self-checkout machines, and barista-bots.&lt;/p&gt;
+
+&lt;p&gt;The first example I find absolutely laughable; self-checkout machines used to be 30 humans, yet somehow we haven’t seen huge unemployment among the grocery-worker industry. I literally don’t even know how to dignify this example with a response; nobody liked bagging groceries, grocery clerks and baggers still exist, and by far the biggest challenge to those working in grocery stores have been their human managers trying to screw them over.&lt;/p&gt;
+
+&lt;p&gt;So, let’s talk about baristas, I guess.&lt;/p&gt;
+
+&lt;p&gt;First of all, when was the last time you saw a robot barista? It was probably memorable, because there are hardly any of them. If you want to count automated coffee machines, your instances go way up, sure, but we also have free water fountains literally legally required everywhere. So let’s focus on fancy beverages: they’re hard to make, and the reason they haven’t taken over is because they are not cost effective. Coffee shops generally operate under two models: make a lot of it, cheaply, and quickly, or make a little of it, extremely carefully, and charge a boat load. For the former, It’s cheaper to pay Bobby-the-part-time-student to make your latte than it is to buy a $30k robot when you already spent $50k for a franchise license. For the latter, obviously a robot could never have the same touch as Alphonso, your reigning in-house latte-making champion of Florence for five years running.&lt;/p&gt;
+
+&lt;p&gt;Grey then employs what I can only describe as an annoyingly misleading tactic of fear-mongering and say “this robot is actually a giant network of robots that remembers who you are and how you like your coffee.” Almost everything we interact with on a daily basis is a network of machines (hot tip, you can sub out the word machine for robot any time you like! It doesn’t always work in both directions, though, so be careful). Reading this on an internet browser, you’re probably being served information from thousands of different machines in locations around the world. I will save my rant about “the Cloud” for another time, but by emphasizing that one machine is actually many machines incorrectly paints a picture that everywhere we interact with a machine, there are dozens more just lurking in the background. In reality, nearly every interface for humans is built with a complete pipeline in mind, and can be treated as a single unit.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-horses&quot;&gt;The Horses&lt;/h3&gt;
+&lt;p&gt;One analogy that I actually simply adore in this video is Grey’s Horse comparison. He asks viewers to imagine being a horse before the automobile revolution. “Surely, there will still be jobs,” one horse says to another, and then goes on to point out how horses have “become obsolete,” and “have no work to do.”&lt;/p&gt;
+
+&lt;p&gt;He then points out that a rule of “Better technology makes more better jobs for horses,” sounds silly, but “when we replace ‘horses’ with ‘humans’ and suddenly people think it sounds about right.”&lt;/p&gt;
+
+&lt;p&gt;Well, yes, actually, we do and absolutely should expect that to be true. Because we, as humans, optimize society, culture, economics, and life to be human-centric… not horse-centric. The reason “better technology makes more better jobs for humans,” can be thought of as true is because humans control technology.&lt;/p&gt;
+
+&lt;p&gt;And as for the horses… horseback riding is now a leisure activity, and the vast majority of horses now have a substantially higher quality of life than before being abused by farm workers. Similarly, human working and living conditions have only gotten better since humans have been required to do less hard labor and made more money for less dying.&lt;/p&gt;
+
+&lt;p&gt;He conveniently ignores this while he points out “horses have been on the decline ever since,” and to that I say: indeed. Because humans are in charge of breeding horses, and horses are tools for humans. Similarly, computers, machines, and robots are tools for humans. Humans are in control of technology, and always will be.&lt;/p&gt;
+
+&lt;h3 id=&quot;transportation&quot;&gt;Transportation&lt;/h3&gt;
+&lt;p&gt;About four years ago, I made a bet with my dad that on my 30th birthday, we wouldn’t be able to get into a self-driving car and have it take us to a fancy seafood restaurant. We get into that car, I pay for dinner. Any human plays a role in our navigation and transportation there, he pays. I still feel confident about my bet, and I still have a few years to go. Which is why I laughed out loud when I heard Grey say, four years ago…&lt;/p&gt;
+
+&lt;p&gt;“Self-driving cars aren’t they future. They’re here and they work.”
+Let me explain. “Here,” to me, would mean companies are actually using self-driving cars to automate-out jobs. Despite startups and attempts, this is still not true. So… they’re not “here,” and they especially weren’t “here,” four years ago.&lt;/p&gt;
+
+&lt;p&gt;But, I agree, as Grey points out, self-driving vehicles are substantially — one might even say alarmingly — safer than human drivers, so they will, and more importantly absolutely should eventually replace human drivers. See the end of this article.&lt;/p&gt;
+
+&lt;p&gt;One solution Grey glosses over is “pushing 100 million additional people through higher education,” but as it turns out, you don’t need to complete higher education to have a high-skilled job. The American-centric vision of education-as-a-must-for-good-work is, as far as I can tell, exclusively American. Many other countries commonly institute apprenticeships for students as young as 15 (France and Germany come to mind), and in my personal experience, no other country looks down so much on highly skilled trade work, such as plumbing or electrician workers — both of which there are currently zero attempts (that I’m aware of) to automate using robotics. Grey, don’t be so educationally elitist.&lt;/p&gt;
+
+&lt;h3 id=&quot;professional-bots&quot;&gt;Professional Bots&lt;/h3&gt;
+&lt;p&gt;One fun-unknown-fact that machine learning scientists love to bring up is the task of “discovery.” “Discovery,” basically means sifting through mountains and mountains of documents for your field (law, if you’re a lawyer; medicine, if you’re a doctor) and finding correlations, anomalies, relevant articles, and other patterns from dense, obfuscated information. Doctors used to have to spend hundreds of hours sifting through research that wasn’t relevant to find one line that might be worthwhile for a particular patient’s case, and for the most part, that was time wasted.&lt;/p&gt;
+
+&lt;p&gt;So, I’m deeply confused by Grey’s attempt to make it sound like a bad thing that humans no longer have to do that. Highly skilled, highly trained people get to spend more time doing the thing that they are highly skilled and trained for… I truly fail to see the detriment to humanity here. It’s not like those people are losing their jobs — discovery is only one small part of being a highly-skilled worker, and often the worst, most tedious part at that.&lt;/p&gt;
+
+&lt;p&gt;On the topic of doctors, he says&lt;/p&gt;
+
+&lt;p&gt;“Doctor bots keep track of everything worldwide, and make correlations that would be impossible to find otherwise.”
+Uhh… yes? Here, he brings up a doctor-bot that “gives guidance on lung-cancer treatments.” The key word here is guidance. If I were a doctor charged with saving a person’s life, for fuck’s sake I would absolutely want every possible tool available to me to save that person’s life. And, as the doctor, I would retain responsibility for that life. It’s not as if we are handing over our well-beings to robots and telling the doctors to shut up and get out. Quite the opposite, we are empowering doctors to make better decisions for their patients. How, exactly, is it a bad thing that doctors are getting better tools to — let me say it again — SAVE HUMAN LIVES?&lt;/p&gt;
+
+&lt;p&gt;And why does he think this will lead to doctors becoming obsolete?&lt;/p&gt;
+
+&lt;p&gt;“Not all doctors will go away, but when doctor bots are comparable to humans and as close as your phone, the need for general doctors will be less.”
+Yes, so for once maybe it’s a good thing every western nation has a shortage of doctors, and developing nations have an extreme shortage. Maybe we’ll fill that, and more people will be able to get reliable healthcare.&lt;/p&gt;
+
+&lt;p&gt;But this is not exactly a new issue. Every time I visit the doctor, it’s already because technology hasn’t given me the answer. Nobody(ish) doesn’t google their symptoms and try to self-diagnose or self-treat. With more accurate home-diagnoses, this will allow humans to self-diagnose and self-treat more safely.&lt;/p&gt;
+
+&lt;h3 id=&quot;creative-bots&quot;&gt;Creative Bots&lt;/h3&gt;
+&lt;p&gt;The next angle to assess is the idea that computers might begin to produce art or other creative works which rival human ability, and to that I simply say, perhaps! As a member of multiple artistic programming communities, I holistically advocate for use of new technologies, including deep learning techniques which Grey seems to find so “terrifying,” to produce new types of art. Because machines and machine learning is now just another tool for artistic expression.&lt;/p&gt;
+
+&lt;p&gt;Additionally, art is produced by humans, for humans. Art that is not valuable in some way to humans is worthless, and therefore I just absolutely cannot see a future in which artists are displaced because machines are practicing their craft “better,” then them. And further, it is important to remember that art that might have been strictly produced by a machine holding a paintbrush or writing music, was actually produced by a human: the programmer.&lt;/p&gt;
+
+&lt;p&gt;The argument that computers will replace art and creativity seems in this video to be succinctly summed up by…&lt;/p&gt;
+
+&lt;p&gt;“People used to think playing chess was a uniquely human thing to do… right up until the point that computers beat the best of us.”
+(Quick aside, chess is a remarkably misleading comparison to make in a section entitled “creative bots,” because chess is one of the easiest things to get a computer to do well — it has extremely precise and specific rules, known strategies, and requires highly-branching simulations of permutations of these known rules… quite, quite unlike art. But still, even if we lend him this comparison…)&lt;/p&gt;
+
+&lt;p&gt;Yet people still play chess for fun. Just as people will continue to paint, draw, compose, write, and create, for their passion. And while “we can’t have a poem and painting-based economy,” art produced by humans will always be valuable at a bare minimum because it was produced by humans. Because it’s art, and it has the value we place on it.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;This video creates a false sense of urgency about an economic and social chaos that isn’t here… and isn’t coming. The hype around computers — and in particular, that one special word, robots — is overblown at best, and utterly unfounded at worst. And it is also, unfortunately, ubiquitous.&lt;/p&gt;
+
+&lt;p&gt;I get it, not everybody is as intimately aware of the abundance of problems that machine learning, robotics, and AI researchers deal with as I am. From robotic arm movements, manufacturing techniques, camera exposure, voice production, conversational interfaces, safety measures, movement and navigation, weather conditions, task-specific knowledge, contextualization, action learning, or any number of the other hundreds of active research areas, the obstacles to machines even getting close to wholesale replacing human labor are vast and complicated. But when you hear authorities go on a rant like this, it can make all those problems seem… solved. They’re really not.&lt;/p&gt;
+
+&lt;p&gt;So, what was the purpose of this video?&lt;/p&gt;
+
+&lt;p&gt;“This video isn’t about how automation is bad, rather, how automation is inevitable.”
+Dude, give me a break. I just explained all the ways automation isn’t inevitable, and I didn’t even get into my own field (social and emotional robotics — if you think movement is hard, try psychology).&lt;/p&gt;
+
+&lt;p&gt;But am I just just being defensive? Do I just “want to reject it,” as Grey suggests? Is my interpretation that this surely must exist exclusively to scare people into being Luddites unfounded?&lt;/p&gt;
+
+&lt;p&gt;Let’s go ahead and reach back to high school literature class brains and do some tone analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;fear-mongering-and-deception&quot;&gt;Fear Mongering and Deception&lt;/h2&gt;
+&lt;p&gt;Not-Fun Fact: 3 out of the last 10 people I told I work in robotics said “oh so like terminator?”&lt;/p&gt;
+
+&lt;p&gt;When people tell you they’re not trying to scare you, they’re probably trying to scare you.
+This video de-personalizes humans at nearly every turn, referring to people as “meat-based counterparts,” to machines — simultaneously de-humanizing the human, and putting our silicon-based counterparts directly in our seats. While referring to humans as “meat,” is cheeky within the field (my personal favorite term is actually “squishy,”) doing so outside, to the average media consumer, naturally evokes images of being consumed, eaten, devoured. Especially coupled with Grey’s ascription of human-y he-series pronouns to Baxter, calling humans “meat,” in a video that is clearly designed to scare people away from robots purposely puts people in a defensive position, in which they must defend themselves from slaughter.&lt;/p&gt;
+
+&lt;p&gt;Think that sounds dramatic? Take a look at the violent imagery used throughout the video. At Jeopardy, Watson doesn’t simply out-perform or even “beat,” the competition, but “crushes,” humans. Much more violent, much more dramatic. At performing sheer volumes of tasks, automated machines don’t simply out-produce or work longer and more consistently, but “destroy,” human performance. He describes their current role in the economy as “terrifying.” Make no mistake, these are deliberate attempts to get humans to imagine heartless, tyrannical overlords that are purposefully and intentionally causing real, physical harm to humans. Again, conveniently ignoring the fact that machines are produced by humans, for humans.&lt;/p&gt;
+
+&lt;p&gt;And then there’s the entire over-arching horse analogy. Not only does Grey again compare humans to animals, but tools, subtly implying that humans will become the obsolete tools of computers, instead of viewing computers and machines as what they are: yet another tool created to advance human progress. The thing about this analogy is it’s so easy to switch a few things around, and suddenly it looks like a much less scary and more accurate picture of reality: Instead of the human being the horse, the computer is the automobile. With the automobile, horse labor became obsolete, as did a whole host of jobs associated with caring for and working with horses, which ultimately enabled humans to have more time working in other fields (sometimes literally), or simply have more leisure time. The automobile enabled whole new hosts of job categories (like that whole transportation thing that we managed to live without for the first 3000 years of modern economic systems). The automobile was a tool of human progress, and there is no reason why computers, again, built by humans for humans, will not follow a similar path.&lt;/p&gt;
+
+&lt;p&gt;There are a number of times in which he makes it clear that humans and computers are in direct competition:&lt;/p&gt;
+
+&lt;p&gt;“Mechanical minds will push humans out of the economy”
+“Robots are already beating humans…”
+But as I’ve said many times, this is a false equivalency. Humans and computers are simply not in competition. Computers are, always have been, and always will be, designed to have purposes that are ultimately useful to humans. Humans are useful to other humans by virtue of the fact that we are social beings that can never be replaced by machines. Just as there was no competition between humans and horses to pull carriages, computers will automate-away tedious and laborious tasks that humans don’t want to or simply cannot do. Computers will do jobs that, sure, perhaps humans could do, but really rather not. And, truth be told, I just don’t see a problem with that.&lt;/p&gt;
+
+&lt;p&gt;Another tactic used in this video is showing misleading, irrelevant, or confusing footage and images throughout intense and aforementioned scary voiceovers. Showing footage of Atlas, the bipedal Boston Dynamics robot, for example, is simply ridiculously misleading. Yes, they have a very impressive demo reel. But Atlas also fell over just after a demo. Robots can be described as finicky, temperamental, incredibly frustrating, or just fucking hard. And every time somebody shows you an incredibly impressive demo — particularly of the big, scary Boston Dynamics bots — just remember it likely took at least one hundred takes to get something remotely usable, that is probably also heavily edited. This isn’t to say the field isn’t advancing, it’s to say showing a video and proclaiming it as the current standard when it absolutely is not and will not be for the foreseeable future for known and easily googleable reasons is plain irresponsible.&lt;/p&gt;
+
+&lt;p&gt;In a similar vein, showing a deep learning neural net and some math equations and implying that can solve any problem that a human worker can solve is straight-up ridiculous. When the majority of people don’t understand deep learning or how it works, and many feel a vague anxiety or fear around mathematics, and humans in general feel uncomfortable with the unknown, it is fear-mongering, plain and simple, to quickly show people a math equation, tell them it’s evil, and move on. To do it twice, with the same image, is just lazy video editing.&lt;/p&gt;
+
+&lt;p&gt;So, with this apocalyptic tone, it’s no wonder Grey sets us up at the end, saying&lt;/p&gt;
+
+&lt;p&gt;“I know this is a lot to take in, and you might want to reject it, but…”
+Well, that’s just a frustrating tactic. Of course I want to reject it… you’ve spent 13 minutes telling me in no subtle way that life as I know it is completely over, and exclusively computers are to blame. Anybody who isn’t thinking critically and one-by-one picking apart these arguments will of course be convinced, because people respond emotionally to emotional words.&lt;/p&gt;
+
+&lt;p&gt;These tactics are unfortunately not unique to this video. They are used heavily throughout media coverage of emerging and advancing technologies, and it is important that the research community is extremely careful to spot and call them out, as well as avoid unintentionally using them ourselves (alright, alright! I’ll stop calling humans “squishy robots”). As for the average media consumer, I encourage each and every single person to think critically about not only the content, but the tone of what you consume. Some questions you can ask yourself to spot fear-mongering tactics are:&lt;/p&gt;
+
+&lt;p&gt;How am I feeling while listening to this? Do I feel threatened, or relaxed?
+What sort of concerns do I have about the topic being presented?
+Who is the author of this piece, and what are their affiliations?
+Now, as for the particular topic of this video, let me explain why a heavily computerized workforce is actually an incredibly exciting opportunity and amazing advancement for humanity.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-progress-of-humanity&quot;&gt;The Progress of Humanity&lt;/h2&gt;
+&lt;h3 id=&quot;over-abundance-isnt-a-bad-thing&quot;&gt;Over-Abundance Isn’t A Bad Thing&lt;/h3&gt;
+&lt;p&gt;There are a number of proposals that do anticipate widespread automation and consequential unemployment (which, to be clear, I do not believe will happen).&lt;/p&gt;
+
+&lt;p&gt;Firstly, there exists a future in which humans live in such abundance that we straight-up don’t need to work. Finland recently ended a universal basic-income (UBI) trial after two-years, with inconclusive — not negative! — results. Many celebrities espouse the benefits of UBI, and specific townships which have tried it have experienced positive results. Hamilton, Canada, for example, is currently participating in a 3-year UBI experiment, with citizens proclaiming:&lt;/p&gt;
+
+&lt;p&gt;“Basic income has given me freedom to live with some dignity with a little extra money to buy the essentials in life”
+And for those worried about the economic stagnation of such situations:&lt;/p&gt;
+
+&lt;p&gt;“Some experiments have even found that basic income increases entrepreneurship, which would ultimately lead to more employment down the road. The truth is that most people want to contribute to society. If we can provide them with basic financial security, they’ll find a way to do it.”
+Even all that aside, economies don’t necessarily need to grow to be healthy, and reinforcing the notion that they do perpetuates what is, in my opinion, a dangerously ruthless and narrow instantiation of capitalism.&lt;/p&gt;
+
+&lt;p&gt;So, in the best case scenario, we, as a society, get our heads out of our own asses and understand that maybe not every single human needs to work for us to all coexist peacefully and comfortably, sharing this big blue rock we know and love. I understand that sounds like a socialist utopia, so let’s just go through all the amazing concrete things that actually are happening now, thanks to the robotics revolution.&lt;/p&gt;
+
+&lt;h3 id=&quot;improving-quality-of-life-for-neglected-populations&quot;&gt;Improving Quality of Life For Neglected Populations&lt;/h3&gt;
+&lt;p&gt;Persons with disabilities (including the veteran in the photo above) arguably have the most to gain from a techno-revolution. While most developed nations are better about treating persons with non-standard abilities as real humans, the U.S. is pretty trash at it. From robotic walkers to aid in lower-limb rehabilitation, to applications that help healthcare providers monitor depression, to literally any of the hundreds of robots and devices designed to deliver and improve care to underserved populations, the robotic revolution is seen as an exclusive positive for many whose life, up until this point, we just haven’t valued like we should.&lt;/p&gt;
+
+&lt;p&gt;Social robots provide companionship to depressed seniors, who, when surveyed, report significantly lower loneliness which can help the elderly live longer with robotic companions. This isn’t taking jobs away from elderly-care workers, this is filling a niche which we, as a society, have currently left wide open. It’s not as if robots will suddenly replace grandkids visiting grandma at the home, or even at her house — it’s that we’re just shitty to our elderly people. Robots, especially sweet, cuddly, friendly ones, can straight-up improve the quality of life for this oft-neglected and significant portion of our population.&lt;/p&gt;
+
+&lt;p&gt;Additionally, advancements in technology can lead to overall better care for persons who need significant monitoring. Many emerging systems are starting to come on the market to help under-staffed, over-worked nursing-home workers with monitoring their patients, which leads to improvements in nursing home care.&lt;/p&gt;
+
+&lt;p&gt;Robots and new technologies also help non-neurotypical individuals navigate the world. Rosalind Picard, who coined the term and started the field of Affective Computing, designed glasses to help children with autism understand emotions of those around them. This field also helped create a seizure-detecting bracelet to help alert caregivers when individuals experience convulsive seizures. Both of these things would not be possible without serious advances in machine learning and robotic technology.&lt;/p&gt;
+
+&lt;h3 id=&quot;saving-human-lives&quot;&gt;Saving Human Lives&lt;/h3&gt;
+&lt;p&gt;On transportation, Grey says:&lt;/p&gt;
+
+&lt;p&gt;“These jobs are over.”
+Well, some of them, yes. And as a result, 32,000 people won’t be killed in car accidents each year. Hundreds of thousands will be spared the injury and pain of being in, or having a loved one be involved in, car accidents. Families will not be made bankrupt by the financial burden of having to pay for chronic injuries as a result of car accidents.&lt;/p&gt;
+
+&lt;p&gt;Food will be delivered faster, and prices will go down. Less will be wasted by rotting in transit. More people will get more nutritious food.&lt;/p&gt;
+
+&lt;p&gt;And besides, as I’ve stated above, technological advancements will eventually have entirely self-driving systems, but most companies are currently investigating hybrid models that will still require human intervention.&lt;/p&gt;
+
+&lt;p&gt;But ultimately, are transportation industry jobs more important than human lives?&lt;/p&gt;
+
+&lt;p&gt;As for the fear that bots will make doctors obsolete, well, I cannot stress enough how untrue that is.&lt;/p&gt;
+
+&lt;p&gt;There is currently a shortage of doctors that disproportionately affects developing nations. With self-diagnosing tools and automated recommendations, more people, across more area, will have access to accurate, reliable healthcare, that simply do not have it right now. These are not jobs that are being taken away, but again, an unfulfilled niche that we, as a global society, have left empty. This is exclusively providing more to people who have less, not even taking and distributing resources, but just allowing people with less to have more.&lt;/p&gt;
+
+&lt;p&gt;Not to mention all the other great social-justicy things about robotic decision making, including the potential to reduce human biases in police and miedical work, and consequently alleviate racial and class divides, which I won’t elaborate on here because that’s a complex topic that I honestly have to give more thought towards before I espouse its virtues.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, what I find so frustrating is the way so much media coverage simply glosses over how many human lives will and are being saved by emerging technologies. And even though some jobs are going to start being done by computers (again, still hasn’t happened, it’s not “here,” yet), economic growth is not more important than human lives.&lt;/p&gt;
+
+&lt;p&gt;Say it with me now: economic growth is not more important than human lives.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-excited&quot;&gt;Get Excited!&lt;/h3&gt;
+&lt;p&gt;There are so many more exciting applications and implications of new technologies that I didn’t even start to cover here. Augmented and virtual reality video games, personalized security systems, decreasing food and shelter prices, bias-detection… just about every aspect of human life does have the potential to be impacted by computers. The limit really is the human imagination, and the way humans choose to put these applications into practice. Humans absolutely should be thinking about the future, and how we can use technology to make positive impacts in our local, personal, disenfranchised, developing, underserved, and global communities.&lt;/p&gt;
+
+&lt;p&gt;While I’ve made it clear I don’t think the robot revolution is here, it is coming — albeit slowly — and that’s a good thing. Remember, technology has always provided humans with more: more time, more money, more food, more connection, more buying power, more comfort, more, more, more. Not only do we not have to be scared of computers “coming for our jobs,” but we should be actively brainstorming how we can use computers to make our lives easier. Indeed, how could I make a robot do my job? And, as it turns out, if your job involves any amount of moving around, being in close proximity to other humans, social interaction including conversation, contextualized knowledge, or creative interpretation, sorry, but you’re probably gonna have to keep working at that job awhile longer.&lt;/p&gt;
+
+&lt;p&gt;And if anybody comes up with a way to automate cognitive emotional robotics research, let me know.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="robotics" /><category term="futurism" /><category term="technology" /><summary type="html">As a new PhD student, starting at a new university, in a new city, in a new country, I’ve found myself introducing my work to many new people lately. I have worked in and (plan to, remember, just started) study machine learning for social and emotional interactions in robots. I’ve experimented with many ways to introduce this topic: “emotional intelligence, but for robots,” “social robotics,” “machine learning for robotic emotions.” Try as I might, I always get some flavor of this response:</summary></entry><entry><title type="html">Concrete Examples.</title><link href="https://csaund.github.io/posts/2018/01/concrete-examples/" rel="alternate" type="text/html" title="Concrete Examples." /><published>2018-01-28T00:00:00-05:00</published><updated>2018-01-28T00:00:00-05:00</updated><id>https://csaund.github.io/posts/2018/01/blog-post-8</id><content type="html" xml:base="https://csaund.github.io/posts/2018/01/concrete-examples/">&lt;h2 id=&quot;women-are-socialized-to&quot;&gt;“Women are socialized to…”&lt;/h2&gt;
+&lt;p&gt;I’ve had many friends basically say they don’t believe “women are raised to…” and use this skepticism to put the burden of gender inequality on women. Here are some concrete examples I can think of that support the idea that, currently, women are brought up in society to…&lt;/p&gt;
+
+&lt;h3 id=&quot;be-quiet&quot;&gt;“Be quiet.”&lt;/h3&gt;
+&lt;p&gt;I was actively reprimanded for speaking too much in class — in every single year from 3rd grade on, my teacher eventually condemned me to “two comments per class” to give others a chance to speak. I see this as a delightful gift that has endued me with empathy and a holistic, team-oriented perspective, but I also have been given feedback now, professionally, that I am not aggressive and not self-serving enough to get ahead.&lt;/p&gt;
+
+&lt;p&gt;I also remember the onslaught of stupid, annoying boys who continuously spoke out-of-turn in class. One particularly memorable episode was my first and only detention, in which, during a math test, our teacher kept yelling to stop whispering.&lt;/p&gt;
+
+&lt;p&gt;I agree, Ms. Whatsherface, shut the fuck up you stupid idiot boys. Whispering intensifies. She looks annoyed but turns to whatever she’s doing at her desk.&lt;/p&gt;
+
+&lt;p&gt;After I finished the test (first, bitch!) I went back to my desk to read, when Stenn turned to me, “hey, how do you do problem 3?”&lt;/p&gt;
+
+&lt;p&gt;“SHHHH” our teacher growls, without looking up.&lt;/p&gt;
+
+&lt;p&gt;I glare at Stenn.&lt;/p&gt;
+
+&lt;p&gt;“Come on, I know you know how to do it. You’re so smart” he smiles, cause he’s cute, and thinks that will somehow get me to yield to his dumb face.&lt;/p&gt;
+
+&lt;p&gt;“The next person to talks gets a detention,” teacher says.&lt;/p&gt;
+
+&lt;p&gt;I glare harder, and look at the teacher, trying to get her attention to point out he’s talking to me. She still doesn’t look up. I quietly and completely lose respect for this scumbag human.&lt;/p&gt;
+
+&lt;p&gt;“Please?” Stenn begs. He moves his pencil towards me. He scoots his chair towards me. Who does this punk think he is? I haven’t even hit puberty and he’s acting like he’s seducing me in the way 5th graders do. You’re not Leonardo DiCaprio, back up, poo-face. He’s relentless, though, and keeps making whispery noises at me.&lt;/p&gt;
+
+&lt;p&gt;“Stop talking to me!” I eventually whisper, as quietly, but forcefully, as I could.&lt;/p&gt;
+
+&lt;p&gt;“CAROLYN! DETENTION!” She yells.&lt;/p&gt;
+
+&lt;p&gt;“I was telling him to stop talking to me!” I exclaim, going full-volume now.&lt;/p&gt;
+
+&lt;p&gt;“She was! I promise! It was me!” Stenn admits. As an aside, this actually makes me like him.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, it’s true, we heard it, Stenn was whispering to her and she just told him to stop talking,” the two other students who share our table pipe up.&lt;/p&gt;
+
+&lt;p&gt;“Alright? Well then, looks like you all get detention!” Whakka-whakka-whaaaat? Yes, that’s right. Not only did I get in trouble for daring to tell someone else to stop breaking the rules, and stop bringing me into it, but everybody who stood up for me was also punished.&lt;/p&gt;
+
+&lt;p&gt;Also, what about the detentions for all the annoying-ass stupid boys that started whispering in the first place? They broke the rules all the time, and got punished for it maybe 1/10 times it bothered the fuck out of me. What about giving them detention for their chorus of “ooooooooo,” as she wrote up the citation? What about punishing the people who were actually causing the problem, instead of me, who was obviously and clearly and demonstrably trying to stop it? Nada.&lt;/p&gt;
+
+&lt;h3 id=&quot;yield-to-others-wishes&quot;&gt;“Yield to others’ wishes.”&lt;/h3&gt;
+&lt;p&gt;When I was in preschool, I had a friend named Kayla. Kayla was, and is to this day, just about the sweetest girl that has ever existed. She is kind and thoughtful and adventurous and by all metrics a great friend to have for a three-year-old to eat sand with. But I was a little bitch-demon of a babe and so when Kayla one day asked me “hey do you want to play with me?” I said “NO. I DON’T LIKE YOU.”&lt;/p&gt;
+
+&lt;p&gt;Kayla, understandably, started to cry. My mother saw this episode, and came over to me. “Carolyn, that’s not how we say no. That is mean. We think about her feelings.”&lt;/p&gt;
+
+&lt;p&gt;I believe what my mother taught me to be true. That shouldn’t be how we communicate. I think we should take others’ feelings and perspectives into account, and communicate in ways that are clear and kind, to the extent we can. (I think this is pretty difficult for a three year old)&lt;/p&gt;
+
+&lt;p&gt;This is significant, and has been told to me, because my pre-school teacher intervened. “No, Laura,” she said, “we actually want to teach them that no means no, and to be forceful when they feel ‘no’. When she’s a teenager, you’ll want her to feel comfortable saying ‘NO’ to boys.” For what it’s worth, I now have no problem saying No.&lt;/p&gt;
+
+&lt;p&gt;I also have empathy and compassion for those for whom “no,” is a difficult word to assert.&lt;/p&gt;
+
+&lt;p&gt;Let me just say again, in pre-school, my teacher was thinking about how I would defend myself against the inevitable assault of men against my mind and body. My own mother, who is herself a strong, independently-minded, assertive, kind woman, didn’t realize teaching me to temper my “no,” could leave me vulnerable in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;put-others-first&quot;&gt;“Put others first.”&lt;/h3&gt;
+&lt;p&gt;When I tried out for the school jazz band, and made it my sophomore year, I was pumped. As a life-long band-nerd, getting into the school’s highest musical ensemble was an accomplishment of which I was sincerely proud. But one boy, who I grew up playing next to, wasn’t as excited.&lt;/p&gt;
+
+&lt;p&gt;“You should give your spot to Kevin,” he said. “He tried really hard, and really wants to be in jazz. And he’s older than you.”&lt;/p&gt;
+
+&lt;p&gt;And I care why, exactly?&lt;/p&gt;
+
+&lt;p&gt;“But we both tried out and I made it in!” I already knew in my heart I wasn’t giving this punk my spot, but I was 15 and really wanted this guy to get it. It isn’t fair to ask me to cede my spot.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, but, I mean, he’s also a boy, and if you joined you’d be the only girl.”&lt;/p&gt;
+
+&lt;p&gt;It’s funny he said this, because this thought had literally not crossed my mind. It often still doesn’t, and only after I leave a space do I realize I was the only woman there.&lt;/p&gt;
+
+&lt;p&gt;“… So?” Was my only response.&lt;/p&gt;
+
+&lt;p&gt;“I mean… you know…” he said. I didn’t know. I still don’t really know. I mean, I don’t get it, but when dudes want dude-only time, sure, that’s fine, I don’t get it because it seems like the vast majority of the existence of the world is dude-only time, but I can respect that.&lt;/p&gt;
+
+&lt;p&gt;But at sixteen, this boy wanted me to give up something I really wanted, and had rightfully earned, because a boy had “tried hard,” and fit in with the group.&lt;/p&gt;
+
+&lt;p&gt;Sound familiar?&lt;/p&gt;
+
+&lt;p&gt;Thank goodness my pre-school teacher let me yell NO. Fuck hurting his feelings.&lt;/p&gt;
+
+&lt;h3 id=&quot;aim-low&quot;&gt;“Aim low.”&lt;/h3&gt;
+&lt;p&gt;My junior year of high school, I had the choice to take all AP classes, plus the hardest musical ensemble (plus some other extra-curriculars). My brother did this his junior year. He got into CalTech. I wanted to get into a good school. I also was tired of dealing with the bullshit that comes in public high school — side conversations, drama, dumb kids not paying attention or not caring. That shit drove me nuts. I was so excited to be in only AP classes and put that behind me.&lt;/p&gt;
+
+&lt;p&gt;My guidance counselor said “I know this is what you want, but you have to understand, you’ve never been challenged, and this is going to be really hard for you.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, it’s fine, it’s what I want to do.”&lt;/p&gt;
+
+&lt;p&gt;“Don’t you want to do things outside of school?”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, I’ll have time. I have thought about this and talked about it with my parents, I can do this, and I want to do this.”&lt;/p&gt;
+
+&lt;p&gt;“I really don’t think you will. You don’t understand how hard this is going to be.”&lt;/p&gt;
+
+&lt;p&gt;“I really think I do, and if I don’t, I’ll find out. It’s fine. Let me take the classes.”&lt;/p&gt;
+
+&lt;p&gt;“Okay… you know it’s okay to drop something if you get overwhelmed, right?”&lt;/p&gt;
+
+&lt;p&gt;My area has problems with students committing suicide, presumably because of the pressure to overachieve. I have the great luxury of having no such pressure, or mental illness.&lt;/p&gt;
+
+&lt;p&gt;“I’m totally fine. You’ve known me for two years, you know I have no problem saying when I’m not fine. This will be fine.”&lt;/p&gt;
+
+&lt;p&gt;“I just feel really nervous letting you do all this.” Bitch, get off my back.&lt;/p&gt;
+
+&lt;p&gt;“Well, my brother did all this, and he worked hard and I saw it and it was fine for him, it will be fine for me.”&lt;/p&gt;
+
+&lt;p&gt;“Yes but you’re not your brother.”&lt;/p&gt;
+
+&lt;p&gt;Oh, cool, let’s count the ways I’m distinct from my brother at this stage in life:&lt;/p&gt;
+
+&lt;p&gt;Both in top musical ensembles? Check.&lt;/p&gt;
+
+&lt;p&gt;Both have straight-A records in the most difficult classes? Yup.&lt;/p&gt;
+
+&lt;p&gt;Both represent the school in California math competitions? Mhm.&lt;/p&gt;
+
+&lt;p&gt;So what exactly, Ms. Rodriguez, is your hesitation with me “pushing myself?” Why did I have to have three separate meetings and get parental permission to try exactly as hard as my brother did?&lt;/p&gt;
+
+&lt;p&gt;Again, only because I was maybe-ignorant, maybe-overly-forceful was I able to assert that my “yes, let me try” was as valid as his. Mom &amp;amp; Dad, you may give me shit about being stubborn and strong-willed to get what I want, but at least what I want is success.&lt;/p&gt;
+
+&lt;h3 id=&quot;act-dumb&quot;&gt;“Act dumb.”&lt;/h3&gt;
+&lt;p&gt;In 7th grade, I cried when I got my report card. I cried because I had gotten a 4.0, and I didn’t want to be a nerd. I don’t know why exactly I cried, or what led to the crying, but I remember I cried and distinctly remember three different responses.&lt;/p&gt;
+
+&lt;p&gt;The cute boys in the class said “haha, you’re a nerd.”&lt;/p&gt;
+
+&lt;p&gt;The girls in the class unfailingly said “wow you’re right, you are a nerd. You’ll never get a boyfriend like that. Sorry you’re so smart.”&lt;/p&gt;
+
+&lt;p&gt;The smart boys in the class (who were not also cute) said “you crying is the dumbest thing I’ve ever seen. I’m mad at you, because you’re smarter than me.”&lt;/p&gt;
+
+&lt;p&gt;I’m glad I remember this, because I could not make this up if I tried. I was crying as a child, before I had any control over my education or environment, when I had many strong female role models and equality demonstrated to me at home blah blah blah… because I already thought it was not only more important to have a boyfriend than to be smart, but because that was actively, consciously reinforced by my classmates. This, in rich, liberal, suburban California.&lt;/p&gt;
+
+&lt;p&gt;And all of these stereotypes hold. Even the smart girls agreed, sucks to be too smart. The smart boys resented me for being better than them. The cute boys, even the ones who were smart, thought that since I was smart, I couldn’t possibly also be worthy of being a girlfriend.&lt;/p&gt;
+
+&lt;p&gt;SEVENTH. GRADE.&lt;/p&gt;
+
+&lt;h3 id=&quot;let-someone-else-be-in-charge&quot;&gt;“Let someone else be in charge.”&lt;/h3&gt;
+&lt;p&gt;Also in 7th grade, in algebra class (for 8th graders, get on my level), we took tests as a group of four. I love this style of test-taking, because it encourages collaboration, teamwork, and a shared sense of belonging. It also demands confidence — “I know I’m right, so that’s the answer we’re putting down.”&lt;/p&gt;
+
+&lt;p&gt;I had been the de-facto leader in each test I had taken… most of the 7th graders had. My team always got As, not because I answered every problem correctly, but because I answered most of them, but when I wasn’t confident, I had no problem yielding to others who were more certain. My own test average probably would have been around a B+.&lt;/p&gt;
+
+&lt;p&gt;In one of the last tests of the year, I was in a group with three boys. When we got the exam, Casey said, “Alright I’m going to be Carolyn this time.”&lt;/p&gt;
+
+&lt;p&gt;“Uhh… what do you mean? I’m Carolyn.”&lt;/p&gt;
+
+&lt;p&gt;“I’m in charge of what we’re writing this time.” He stated, simply.&lt;/p&gt;
+
+&lt;p&gt;“No you’re not. I am. I have been for all the other tests, and we’ve gotten all As. We’ll still listen to you, and you can even write it down, but I’ll decide what answers we put down.” Don’t you take this from me, Casey.&lt;/p&gt;
+
+&lt;p&gt;“No. You’re always so bossy. Just give me a turn!” He whined. “Yeah,” the other boys said, “he’s right. You always get to be in charge. Just let him decide.”&lt;/p&gt;
+
+&lt;p&gt;“No! You’re all getting Ds in this class and Ms. Weinstein literally put me in this group so you’d get an A on this test to bring up your grades! Let me decide!”&lt;/p&gt;
+
+&lt;p&gt;“Okay, so, problem 1… ” Casey began, utterly ignoring my completely logical rationale for me being in charge, that would certainly benefit him and his friends.&lt;/p&gt;
+
+&lt;p&gt;Cue us spending the next 47 minutes with me saying “No, that’s wrong!” and them saying “Well we think it’s right so that’s what we’re doing” and me leading them through how to solve the problem and them saying “ugh shut up you’re so bossy. You always get to lead and you’re younger than us so it’s our turn.”&lt;/p&gt;
+
+&lt;p&gt;We got a D on that test. Their stupidity and illogical need to drive despite my proven track record of success punished me and my grades.&lt;/p&gt;
+
+&lt;p&gt;“Carolyn! I thought you were supposed to be smart!” Casey giggled when we got our exams back.&lt;/p&gt;
+
+&lt;p&gt;Are you fucking kidding me?&lt;/p&gt;
+
+&lt;p&gt;Ms. Weinstein, to her credit, saw the whole damn thing, and told our group we would have the option of taking an individual make-up test if we wanted to. None of the boys took that option — they didn’t care about their grades. I cared. I took the test, by myself. I got an A.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-conclusion&quot;&gt;In Conclusion…&lt;/h3&gt;
+&lt;p&gt;I don’t know if these experiences are unique to me, but I have shared these stories quite a few times.&lt;/p&gt;
+
+&lt;p&gt;The non-men all say, “yup, me too.”&lt;/p&gt;
+
+&lt;p&gt;The men all say, “really?”&lt;/p&gt;
+
+&lt;p&gt;Yeah… really. Yes, really. Yes. Yes. Really. Yes, these are my real experiences that I can really point to, and these are only the ones I remember.&lt;/p&gt;
+
+&lt;p&gt;When you meet strong women, remember, we are often strong in spite of, not because of, our upbringing. Despite the strong mothers and teachers and volunteer mentors and uplifting men and role models of all genders, there is still work to be done.&lt;/p&gt;
+
+&lt;p&gt;Just believe it’s different for us than you. Just believe the universe looks different through our eyes. Please.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="tech" /><category term="software" /><category term="bias" /><category term="sexism" /><summary type="html">“Women are socialized to…” I’ve had many friends basically say they don’t believe “women are raised to…” and use this skepticism to put the burden of gender inequality on women. Here are some concrete examples I can think of that support the idea that, currently, women are brought up in society to…</summary></entry><entry><title type="html">Graduate School Dreams</title><link href="https://csaund.github.io/posts/2017/08/gradschool/" rel="alternate" type="text/html" title="Graduate School Dreams" /><published>2017-09-01T00:00:00-04:00</published><updated>2017-09-01T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2017/08/blog-post-4</id><content type="html" xml:base="https://csaund.github.io/posts/2017/08/gradschool/">&lt;p&gt;An honest, cheeky, unfiltered brain dump of why I’m ready to go back. Partially an exercise to aid writing 
+my statement of purpose, maybe somebody else can solidify&lt;/p&gt;
+
+&lt;h1 id=&quot;the-field&quot;&gt;The Field&lt;/h1&gt;
+
+&lt;h2 id=&quot;industry&quot;&gt;Industry&lt;/h2&gt;
+&lt;p&gt;There’s a certain intellectual apathy. The emphasis on product is frustratingly limiting. Of course, 
+I know grad school isn’t all rainbows and butterflies (it IS compromise that moves us along, after all [it’s a Maroon 5 joke.]) 
+but there &lt;em&gt;is&lt;/em&gt; research direction and personal freedom; it’s not “we are literally dead if we don’t ship.”
+I did that, it was fun. It was crazy. It was stressful. I’d love to do that again at some point. 
+I really want to experience the creative freedom and direction and &lt;em&gt;exploration&lt;/em&gt; that grad school affords.&lt;/p&gt;
+
+&lt;h2 id=&quot;academia--affective-computing&quot;&gt;Academia &amp;amp; Affective Computing&lt;/h2&gt;
+&lt;p&gt;HAVE YOU HEARD THE GOOD NEWS?&lt;/p&gt;
+&lt;imc src=&quot;/images/goodnews.jpg&quot; /&gt;
+&lt;p&gt;&lt;br /&gt;
+Affective Computing is the thing I always loved and didn’t know was real. I literally
+didn’t know there was a field for studying emotion in the way I &lt;em&gt;feel&lt;/em&gt; it: logically, reasonably, 
+with nuance and complexity, and as a dramatic enhancement to my experience on this planet. 
+I have never understood why people shied away from it (why STILL indeed?) since it seems like 
+the most blatant necessity in the coming “AI revolution.”&lt;/p&gt;
+
+&lt;p&gt;Honestly, if I had had my shit together coming out of undergrad, I would have applied sooner. But I didn’t,
+and that’s actually way better. I didn’t know how to handle myself right out of undergrad,
+and now I not only know how to write great code and do like basic time management, but I have
+a profound appreciation for my own interest in this field.&lt;/p&gt;
+
+&lt;p&gt;Seriously, I was never one to read white papers for fun (except cognitive neuroscience, Phil Holcolmbe was the best prof)
+until I discovered this field because DAMN how can you not!? It’s annoying to me that
+I understand my passion so deeply that it almost doesn’t even feel like there are words for it… 
+it’s just obvious that rigorously and computationally studying empathy and communication is what I’m meant to do.&lt;/p&gt;
+
+&lt;h2 id=&quot;empathy&quot;&gt;Empathy&lt;/h2&gt;
+&lt;p&gt;Over a year ago I met my best friend, Ms. Claire Duvallet. Over the course of one year, she 
+has prompted more self-reflection and growth than any other influence in my life. She speaks to me
+in a way that I hear so uniquely, and goes so deep in our interests. Here’s the thing though: there’s only
+one of her. I am grateful for her friendship, and think about how she helps me; how could her lessons
+be distilled and passed on?&lt;/p&gt;
+
+&lt;p&gt;If she teaches me because she adjusts her communication style to me, then surely a machine 
+or automated coach could do something similar. This is going to revolutionize &lt;em&gt;everything&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lucky for me, MIT seems to be on the education kick too. But obviously it’s so much more.&lt;/p&gt;
+
+&lt;p&gt;It’s more than customized lesson plans.&lt;/p&gt;
+
+&lt;p&gt;It’s more than actually helpful UI that doesn’t annoy you.&lt;/p&gt;
+
+&lt;p&gt;It’s more than empathetic&lt;a href=&quot;https://www.google.com/search?q=woebot&amp;amp;rlz=1C5CHFA_enUS747US750&amp;amp;oq=woebot&amp;amp;aqs=chrome..69i57j0l5.2632j0j1&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;therapy bots.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s more than &lt;a href=&quot;https://www.media.mit.edu/projects/engageme/overview/&quot;&gt;helping autistic children &lt;/a&gt;learn social skills.&lt;/p&gt;
+
+&lt;p&gt;It’s fucking scary. It’s marketing, targeting you. It’s cognitive scientists, bayesian modelers, and the most crooked
+CEOs you can dream up manipulating you into buying their products. It’s &lt;a href=&quot;http://www.cnn.com/2017/10/27/politics/trump-campaign-wikileaks-cambridge-analytica/index.html&quot;&gt;manipulating 
+the cultural psyche&lt;/a&gt;. It’s FUCKING TERRIFYING.&lt;/p&gt;
+
+&lt;p&gt;I’m a good guy. I want to be there to fight bad guys.&lt;/p&gt;
+
+&lt;p&gt;Empathy is this beautiful tool that is like a dope double-edged sword of justice, that both
+increases world awesome &lt;em&gt;and&lt;/em&gt; decreases world suck.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IOKRR9sYlzc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+(for reference)&lt;/p&gt;
+
+&lt;h1 id=&quot;why-grad-school&quot;&gt;“Why Grad School?”&lt;/h1&gt;
+
+&lt;h2 id=&quot;im-jealous-of-my-friends&quot;&gt;I’m jealous of my friends&lt;/h2&gt;
+&lt;p&gt;I am so envious of my graduate school friends. Every time they invite me to a lecture, or a talk, or 
+an interesting speaker or event, I want to go. I’m working hard at the office(s) and that’s fine and dandy
+but &lt;em&gt;damn&lt;/em&gt; do I wish I could leave from 2:30-4:00 most Tuesdays and Thursdays. I’ve started doing it
+more often, but I just wish it were my &lt;em&gt;job&lt;/em&gt; to learn new things and become inspired by 
+brilliant speakers.&lt;/p&gt;
+
+&lt;h2 id=&quot;i-havent-met-the-one&quot;&gt;I haven’t met “the one”&lt;/h2&gt;
+&lt;p&gt;I just know where they live. I don’t yet know what problem is going to be MINE yet, 
+but now I know how to get there. It’s Emotional AI. It’s Affective Computing. Yo, do you
+ think Rosalind Picard would think it’s weird if I wrote her thanking her for inventing
+ this field like 40 years before I would be able to?&lt;/p&gt;
+
+&lt;h2 id=&quot;i-just-know&quot;&gt;I Just Know™&lt;/h2&gt;
+&lt;p&gt;I’ve always known. My professors have known, my parents have known, my friends have known. 
+I’m just cut out for grad school. I thrive in the chaos and the creativity and the rigor 
+and stress and want to steep in it like an intellectual tea bag.&lt;/p&gt;
+
+&lt;p&gt;The most honest thing I can say is: the more I research and look into the groups
+I want to work for and learn about the field, the more ideas I have. The bigger my 
+excitement gets. The stronger the passion. The more I want it.&lt;/p&gt;
+
+&lt;p&gt;The last time I &lt;em&gt;knew&lt;/em&gt; something like this was in my first computer science course. 
+ I love the feeling. I love just &lt;em&gt;knowing&lt;/em&gt;. It’s such a relief to have found what I want 
+ to dedicate my life to. Now comes the stress of enacting exactly &lt;em&gt;where&lt;/em&gt; and &lt;em&gt;how&lt;/em&gt; that can happen.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="grad school" /><category term="PhD" /><category term="diary" /><summary type="html">An honest, cheeky, unfiltered brain dump of why I’m ready to go back. Partially an exercise to aid writing my statement of purpose, maybe somebody else can solidify</summary></entry><entry><title type="html">Dev Chat Interview</title><link href="https://csaund.github.io/posts/2017/07/dev-chat-interview/" rel="alternate" type="text/html" title="Dev Chat Interview" /><published>2017-07-22T00:00:00-04:00</published><updated>2017-07-22T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2017/07/blog-post-6</id><content type="html" xml:base="https://csaund.github.io/posts/2017/07/dev-chat-interview/">&lt;p&gt;A chat for my friends’ blog series, reposted from original found &lt;a href=&quot;https://www.samjarman.co.nz/blog/carolynsaund&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introduce-yourself-who-are-you-where-do-you-work&quot;&gt;Introduce yourself! Who are you? Where do you work?&lt;/h2&gt;
+&lt;p&gt;Hi! I’m Carolyn. I graduated from Tufts university in beautiful Somerville, Massachusetts, USA with degrees in Cognitive Science and Computer Science.&lt;/p&gt;
+
+&lt;p&gt;For the past two years I worked at a social robotics startup called Jibo, where I started out building the robot’s SDK and transitioned into writing more far-reaching backend systems that focus on infusing character and personality into Jibo’s emotions, speech, and interactions.&lt;/p&gt;
+
+&lt;p&gt;I recently moved to Cogito (founded by a Kiwi from Wellington!), which does conversational analysis. Although I’m technically on the web team here, my role involves full-stack development and lots of thinking about data architecture.&lt;/p&gt;
+
+&lt;p&gt;When I’m not typing furiously on overly-clicky mechanical keyboards, you can find me on the field playing ultimate frisbee or stumbling through mountains with friends.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-or-what-got-you-into-programming&quot;&gt;Who or what got you into programming?&lt;/h2&gt;
+&lt;p&gt;It was actually a stroke of luck that my university’s Cognitive Science program required two CS classes. I signed up for the intro course my very first semester “to get it out of the way.” By the second project I knew I loved it, and by the third I was ready to major in it. When I went to tell my professor, he laughed and pulled out a piece of paper; he had already registered me as his advisee! I guess sometimes you Just Know 😍&lt;/p&gt;
+
+&lt;h2 id=&quot;you-seem-very-interested-artificial-intelligence-and-machine-learning-what-is-it-about-this-field-that-interests-you&quot;&gt;You seem very interested artificial intelligence and machine learning! What is it about this field that interests you?&lt;/h2&gt;
+&lt;p&gt;My background in Cognitive Science really informs my computational interests. I approach programming as a tool to be used to better understand the brain and our own thinking systems. It wasn’t until I worked on, developed, and shaped a huge software stack that I learned to appreciate the beauty and complexity of large software architectures. And even still, the architectural parallels between software and human thinking systems are amazing.&lt;/p&gt;
+
+&lt;p&gt;AI and ML are still nascent fields, and although formal cognitive study has been around since the before the 50s (Minsky’s Society of Mind is considered a [thoroughly unimplementable] classic), the computational tools scientists now have are unmatched, and unlock whole new ways of thinking about thinking.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that once humans know how we ourselves think, there’s basically limitless potential for social impact. You know how your brain just sometimes does really cool shit? Imagine if we knew how to invoke that all the time. Imagine if we knew how to balance and exploit every pathway in our thinking systems. Every single evolutionary fluke or “life hack” would become available to us.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-working-on-an-sdk-at-jibo-teach-you-about-developer-experience-what-differences-are-there-between-developers-and-regular-consumers&quot;&gt;What did working on an SDK (at Jibo) teach you about Developer Experience? What differences are there between developers and regular consumers?&lt;/h2&gt;
+&lt;p&gt;With consumers, you get the luxury of more-or-less telling them what they want. Developers know what they want, though I’ve always found them incredibly friendly and forgiving. Generally, responsiveness earns more points that being correct right off the bat, and I think that’s because of the community feeling. Devs like helping devs because, hey, we’re all devs! And at the end of the day, owning up to bugs and showing you’re listening and responding to community needs is enough to win over friends.&lt;/p&gt;
+
+&lt;p&gt;The biggest similarity I see between groups is that everybody wants their interactions to be simple. More and more nowadays, if the consumer (dev or casual) needs to think about how to use your product, you’ve already lost. A simple interface, sensible defaults, and a foolproof safety net (think: you CANNOT fuck this up even if you try really hard) go a long way. Basically, “pretend the user is drunk” holds true for devs as well as regular consumers. 🍻&lt;/p&gt;
+
+&lt;h2 id=&quot;youve-experienced-a-computer-science-education-in-both-the-usa-and-new-zealand-what-were-the-differences-and-which-do-you-prefer&quot;&gt;You’ve experienced a computer science education in both the USA and New Zealand. What were the differences and which do you prefer?&lt;/h2&gt;
+&lt;p&gt;The biggest difference is definitely the amount of work I was expected to do outside of class. In the US, at least two of my undergrad classes were 40+ hours/week. For one class. There’s this huge expectation of spending a ton of time working on problem sets and projects, and I truly believe that 100% of the work I did made me a better engineer. “Better,” in this case, means more thoughtful and aware of the deeper problems which underlie and inform implementation. So in New Zealand I felt, at least time-wise, underextended.&lt;/p&gt;
+
+&lt;p&gt;I also felt really silly raising my hand to ask questions in class. In the US, my classes were generally fueled and entirely driven by students taking the lecture in whatever direction and at the pace we felt ready, whereas in NZ although the professor told me he liked when I asked questions, it was clear from my peers that that’s just not how it’s done. To be honest I never really adjusted, and asked anyway. My philosophy is “I’m a generally intelligent human, if I can’t follow this then somebody else is probably also lost, and if not I’m in way over my head anyway, so fuck it.”&lt;/p&gt;
+
+&lt;p&gt;Another huge difference was the gender ratio. At Tufts the intro CS classes are 50/50 M/F, and we generally graduate at a ratio of about 65/35. In New Zealand, while there were other women in the department, I was the only woman in two of my CS classes, and one of three in the other. And these were big, lecture-style, 30-50 person classes! I found my group of friends eventually (holla atcha SAM) but it was much more intimidating than I thought it would be, and left me with a lot of empathy for less-outspoken demographic minorities.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-has-been-your-toughest-lesson-to-learn-in-your-software-career-so-far&quot;&gt;What has been your toughest lesson to learn in your software career so far?&lt;/h2&gt;
+&lt;p&gt;All the business lessons have been the hardest. You can work on something awesome that you love, but at the end of the day, it has to make money. You have to sacrifice doing it right for getting it done by a deadline, and you have to sacrifice implementing cool new features for hardening your code. Basically, the software equivalent of eating your veggies. That being said, now I so so so greatly appreciate good test coverage!&lt;/p&gt;
+
+&lt;p&gt;But a much harder lesson I have to say, and I hate to say it, is that gender discrimination is definitely a thing. It hasn’t affected me on a personal level too much, but I do see it – regularly, and pervasively. I was extremely lucky to be shielded from it for as long as I was, but in The Real World™ it’s tough to swallow the fact that I’m just going to have to work harder to get some people to take me seriously.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-would-be-your-number-one-piece-of-advice-for-a-successful-software-career-so-far&quot;&gt;What would be your number one piece of advice for a successful software career (so far)?&lt;/h2&gt;
+&lt;p&gt;Work as a team, and own your decisions. If you made a decision that turned out to be technically foolish, acknowledge it and, with your team, fix it. Don’t make excuses, just learn and move on. On the flip side, if a team member makes a mistake, that’s ok! Allow everybody the space to mess up and find solutions together. Programming is, when done right, one of the most social jobs around, because you have to constantly be fitting moving pieces together. It’s so satisfying when you can step back with a close-knit team and see this goliath thing you’ve build that you never could have accomplished yourself.&lt;/p&gt;
+
+&lt;p&gt;Also, don’t be afraid to self promote. Remember, if you hit every “requirement” in the job description, you’re overqualified. Take risks, learn fast, be passionate about not knowing the answer and discovering new ways of thinking.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-you-mime-programming-to-somebody-do-you-use-t-rex-arms-or-wiggly-fingers&quot;&gt;When you mime programming to somebody, do you use T-rex arms, or wiggly fingers?&lt;/h2&gt;
+&lt;p&gt;T-rex arms, hands down.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-booksresources-would-you-recommend&quot;&gt;What books/resources would you recommend?&lt;/h2&gt;
+&lt;p&gt;I love being subscribed to javascript weekly. It’s a great, succinct way to see what’s coming up in the ecosystem, and it’s made me a better dev to have some foresight. I also subscribe to CB Insights, which is a little more involved but I love his sarcastic tone and the firm’s quick updates on VC trends.&lt;/p&gt;
+
+&lt;p&gt;I strongly recommend Godel, Escher, Bach to all computationally-minded, intellectually curious conscious beings!&lt;/p&gt;
+
+&lt;h2 id=&quot;finally-make-your-shoutout-what-would-you-like-the-readers-to-go-have-a-look-at&quot;&gt;Finally, make your shoutout! What would you like the readers to go have a look at?&lt;/h2&gt;
+&lt;p&gt;I mean, if you’re interested in robotics definitely check out the Jibo SDK. It a dope toolset for a neat little robot.&lt;/p&gt;
+
+&lt;p&gt;My top 3 favorite tweeters are:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/drfeifei&quot;&gt;Fei-Fei Li&lt;/a&gt;, ML genius, stanford research director, good-hearted entrepreneur;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/laurenduca&quot;&gt;Lauren Duca&lt;/a&gt;, cool AF journalist and personal fashion icon;&lt;/p&gt;
+
+&lt;p&gt;and I love &lt;a href=&quot;https://twitter.com/medialab&quot;&gt;The Media Lab&lt;/a&gt; for all the interesting news and technical goings-on in the world.&lt;/p&gt;
+
+&lt;p&gt;And I’m not particularly interesting, but you can follow me on twitter &lt;a href=&quot;https://twitter.com/CarolynBot&quot;&gt;@CarolynBot.&lt;/a&gt;&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="tech" /><category term="developer" /><category term="software" /><summary type="html">A chat for my friends’ blog series, reposted from original found here</summary></entry><entry><title type="html">Wonder Woman was Bullshit Feminism and I Am Mad About It.</title><link href="https://csaund.github.io/posts/2017/06/wonder-woman/" rel="alternate" type="text/html" title="Wonder Woman was Bullshit Feminism and I Am Mad About It." /><published>2017-06-22T00:00:00-04:00</published><updated>2017-06-22T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2017/06/blog-post-9</id><content type="html" xml:base="https://csaund.github.io/posts/2017/06/wonder-woman/">&lt;p&gt;Obligatory Spoiler Alert.&lt;/p&gt;
+
+&lt;p&gt;8.4 on IMDB? Acclaimed by my favorite liberal news source The New York Times? 97% on rotten tomatoes!? I was all in. In hindsight, I should have known. I should have listened to that little voice in my head during the trailers that said “jeez, she sure is scantily clad for this to be a feminist film.” I should have recognized that sinking feeling I get when I see a Classic Love Interest™ highlighted as a main plot point. I should have listened to my gut when it said “this is too good to be true.”&lt;/p&gt;
+
+&lt;p&gt;But the truth is, I was blindsided. After all, the film had just passed the Bechdel test like five times when they make the Chris-Pine-has-a-big-penis joke ten minutes in. I laughed along, unaware of the pain to come. “Ha ha, I, too, would wonder what male genitalia looked like if I grew up in a society of women!” Never mind the fact that on this island paradise, everybody was bare-shouldered and bare-thighed, along with shockingly beautiful. It’s an island paradise! It’s hot out! Besides, it’s an island of all women, and surely a girl’s gotta attract the hotties, men or women. These were my thoughts as I wrote off these harmless signs. But in the final scenes of Themyscira, when Diana and her boo sail away and our naive heroine makes the point that it’s silly for him to not sleep with her, I got an inkling this might not be the “feminist triumph” I was promised.&lt;/p&gt;
+
+&lt;p&gt;How was I to know that after the first 10 minutes, there would be only two more female characters, and never again would female characters speak to one another? (Yes, I am leaving out the secretary one-liner commenting on her clothes, and I am leaving out the one line of an enslaved woman crying for help in the battlefield. Those aren’t the Bechdel test). How could I have guessed that Diana would draw her strength, ultimately, from her love for Chris Pine? What would have tipped me off that even our female villain would play mono-dimensional second fiddle to her commander? (Oh riiiiiiight, the skirt…)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../images/wonderwoman.jpg&quot; alt=&quot;wonderwoman&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just look at that protective armor!&lt;/p&gt;
+
+&lt;p&gt;Diana turns out to be the anti-feminist heroine that Hollywood wants to believe is “progress.” She fights people! She kills people! That’s certainly not very lady-like! So what if she’s doing it in little more than a bathing suit (albeit, one-piece!)? It’s “true to the story.” And that she just happens to be totally naive to the ways of the world (&lt;a href=&quot;https://www.youtube.com/watch?v=0thpEyEwi80&amp;amp;vl=ru&quot;&gt;why is this attractive!?&lt;/a&gt;). And strangely curious about sex, despite revealing that the Amazons deem men “unnecessary for pleasure.” Maybe she’s bisexual? And that’s progressive? We just only get to think about her having sex with women, and see her having sex with men… progressive, right guys?&lt;/p&gt;
+
+&lt;p&gt;When Diana leaves Themyscira, her mother says “the world of men does not deserve you.” Throughout the film, this harken back to Dark Knight (“not the hero we deserve, but the hero we need”) is reiterated multiple times. But when Diana finally realizes her power, it’s drawn only from the loss of her love. Batman was about selfless sacrifice — about being a hero even when you will never be known for it, when you will fall because of it! Batman was the martyr, the complex character who made a non-standard choice of becoming a villain or ruining his own (superhero) life — aka giving up the only thing that brought him purpose in life. Wonder Woman got a boring-ass, played-out, contrived choice: join me and we rule the world together, or save humans and be adored by them. Whatever — that doesn’t make this film anti-feminist, it just makes it boring.&lt;/p&gt;
+
+&lt;p&gt;All this, and I still haven’t gotten to the fact that Chris Pine is actually the hero of this movie. Unlike Diana and her one-dimensional harping I-will-kill-Aries-and-save-the-world over and over and over, we get to see his character evolve. He has an intensely internal moral compass, following his gut but also commands. He’s willing to change his mind about who he trusts and works for, he’s evolving even as he’s executing on a plan he knows may ultimately kill him, he protects and trusts his friends, and they trust him with their lives and more. Sure, the romance between Diana and him is strangely rushed and never really developed (maybe its’ small-ish role is a feminist win?) but somebody needs to say “I love you” in the end. Also, low key, he literally leads Diana around the entire film, including my very favorite “I am grabbing your hand and we are running now” (that is not my favorite).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../images/chrispine.jpg&quot; alt=&quot;chrispine&quot; class=&quot;img-responsive&quot; /&gt;
+Hello I am Chris Pine. Love me heterosexually.&lt;/p&gt;
+
+&lt;p&gt;In the penultimate scene, Aries basically says “humans are the worst.” Diana responds with “they are… but they’re so much more.” This is a vague-ass line, and it’s all she says on the matter! We can only assume she’s drawing from her love for Piney boy who just sacrificed himself (martyrdom: the ultimate show of character) but it is totally unclear what she means here. She doesn’t even get a speech at the end! Her final words to us are just her opening monologue literally repeated word for word.&lt;/p&gt;
+
+&lt;p&gt;The trailers even prepped us for a girl-power extravaganza! To be honest, one sound bite of the tens that Diana pours about saving the world and destroying Aries sounds pretty good amid a gorgeous woman beating up Nazis. I feel misled and betrayed. Kind of like Diana, I guess, maybe? If I identify with the main (female) character, that makes me like this all, right?&lt;/p&gt;
+
+&lt;p&gt;Ya know, if you just love superhero movies and can’t see past “STUFF BLEW UP AND IT WAS AWESOME,” that’s cool. I don’t really care that this is a terrible, boring film whose only redeeming quality is fight choreography (even then, it was really just the same cool effects done about fifteen times). What gets me is people are saying this is a feminist WIN! Seriously, fellow humans? You think this is what passes as feminism? News flash: just because the film is named after a female character does NOT make it automatically pro-female-equality. It just pisses me off because it could have been so easy to make it more egalitarian! Change the linguist’s gender and boom: you’ve got another female character. Let Diana and Dr. Whatsherface meet and KA-POW women interacting with women without male supervision! Somehow you managed to put a Native American in rural France during WWI and no one asks questions (actually, no questions, well done), but you couldn’t work a woman into war efforts? Give me a break.&lt;/p&gt;
+
+&lt;p&gt;Let’s be clear about one thing: this isn’t feminism, this is a joke. Give me a real female lead with literally any character development and at least one female friend. That is actually all I ask. If you think this film, or my ask, is equality, set higher standards for yourself and for Hollywood.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="feminsm" /><category term="hollywood" /><summary type="html">Obligatory Spoiler Alert.</summary></entry><entry><title type="html">On Fleece Pants</title><link href="https://csaund.github.io/posts/2017/07/on-fleece-pants/" rel="alternate" type="text/html" title="On Fleece Pants" /><published>2017-05-22T00:00:00-04:00</published><updated>2017-05-22T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2017/07/blog-post-5</id><content type="html" xml:base="https://csaund.github.io/posts/2017/07/on-fleece-pants/">&lt;p&gt;Just some great pants.&lt;/p&gt;
+
+&lt;h1 id=&quot;i-would-like-to-find-the-man&quot;&gt;I would like to find the man&lt;/h1&gt;
+&lt;p&gt;I would like to find the man from whom I stole These Fleece Pants. The black ones that I’m wearing now, as I watch the sunrise and wait for my friends to wake up. Fish jump out of the water, just enough to catch the bugs. They make a small “splsh” sound, leave tiny ripples across the otherwise glassy lake, and dive down into the clear water. Earlier, These Pants ran from the fire pit — where I failed to re-establish last nights’ embers — to the picnic bench, where a chipmunk gnawed at the outside of the package of Dave’s Killer Bread. It was These Pants that saved our breakfast.&lt;/p&gt;
+
+&lt;p&gt;I want to find you, Man-From-Whom-I-Stole-These-Pants, to thank you for letting me borrow them during our camping trip together in New Zealand, when our Land Ethics final was making our way through a dark, rainy night to an unmarked campsite. We all brought our extra gear to share; I lent you my Whisperlite stove, you lent me These Pants. I think your name was Chris, or maybe it was Tom. Everybody in New Zealand is named Tom. You were the oldest student in our class — in your 30s! I never asked you why you were studying abroad in New Zealand in your 30s, but I wish I had. Your story, of how you used These Pants before they found me, is one I would very much like to hear.&lt;/p&gt;
+
+&lt;p&gt;This is the hill above the campsite where These Pants and I first met. Do you remember, Man-From-Whom-I-Stole-These-Pants?&lt;/p&gt;
+
+&lt;p&gt;You should know that looking back now, I have no idea if I ever intended to give These Pants back to you. When the weekend was over you returned my stove, but I was still wearing These Pants. I said, “we’ll see each other around, I’ll return them to you next time we see each other.” But, Man-From-Whom-I-Stole-These-Pants, I never saw you again. I suppose, technically, I still have the chance to stay true to my word, but I do not even know your name, let alone where you live or how to find you!&lt;/p&gt;
+
+&lt;p&gt;You should know, also, when you said “these pants are old and ratty but I guess they still work,” you were underestimating the spirit of These Pants to an unimaginable degree. They dry quickly, and have cinched edges around the feet, so they are ideal for cold, damp trips to the mountains. And as far as I can tell, they are made of miracle fabric that is soft and flexible, but durable enough to bushwhack through dense undergrowth without getting any holes. The inside of my sleeping bag knows These Pants well, because they slip over leggings and hiking pants, but ensure I take off my boots before, so they make me remember to change out of your wet socks before bed. In this way, These Pants save my feet from getting painful and soggy on long trips. On the last day out, I don’t even have to change in the morning, and just hike out wearing These Pants. This quality lets them see landscapes around the world.&lt;/p&gt;
+
+&lt;!-- Not pictured: These Pants --&gt;
+
+&lt;p&gt;Cool wetness, however, is not just found at high altitudes. These Pants bring me to misty beaches around the world. Later in the year after These Pants were bestowed upon me, I wear them on a chilly day in the Coromandel on Hot Water Beach, where they become covered in sand. We only have one shovel between five of us, so I get down in These Pants and dig with my hands, searching for hot spots in the earth. When at last we have a make-shift jacuzzi just out of reach of the waves, I strip off and carelessly discard These Pants in the pile of sticky, wet sand. We laugh for hours at the rising tide, abandoning our hard-won pool only once we are thoroughly pruned and the waves finally drown our hot water with the freezing Pacific. As we walk back to the rusty old Subaru, I only barely remember to grab These Pants. They are filthy, but well-spirited. They forgive me for my neglect, and join me on my flight home. At this point, we both know that we will never see Man-From-Whom-I-Stole-These-Pants again.&lt;/p&gt;
+
+&lt;p&gt;Back in California, These Pants warm me as I walk along the eastern edge of the Pacific Rim. Together we pine for more adventure, and so we build a bonfire with old friends on the Santa Cruz beach. I am fairly sure this is illegal, but the night is so cold with just These Pants and a tank top (winter in California, huh). Besides, who makes fire illegal at the beach. These Pants and I huddle with Erik, Nathan, and Liliana, exchanging stories and giggles about absurdities like only college students can. We don’t drink, even though we’re all old enough now, because we want to remember what it feels like to be in love with the world together. The next morning, I wear These Pants on our second flight together, to my second home in Somerville, Massachusetts. We are greeted by the Polar Vortex, and in the first three months of owning them, I have been in a full 100ºF temperature range with These Pants.&lt;/p&gt;
+
+&lt;!-- These Pants on the Routeburn Track --&gt;
+
+&lt;p&gt;I feel bleak in this winter tundra. My body aches to be outside again. These Pants have no defenses against mosquito bites, and they do not bolster my confidence against giant spiders that inhabit the woods, but they remind me of the immense freedom of the wilderness. Prior to North America, I don’t think These Pants had ever seen a proper trail — just open landscape to explore. I lay every night in my bed and listen to the train rumble by, dreaming of waking up in valleys filled with yellow tufts of grass, where the “route” I am meant to follow is a stony river. In my dreams I wear These Pants while I drink straight from snowy runoff streams. In Real Life, I wear These Pants on inconveniently-timed video calls to my far-away friends. I wear These Pants while I cry because my Adventure Life feels so far removed from Who I Am here. I wear These Pants when I eat whole giant bags of cheddar-flavored popcorn. I wear These Pants while I study for finals by myself in the library at 2am. I wear These Pants when I walk home in the dark.&lt;/p&gt;
+
+&lt;!-- Not Pictured: These Pants --&gt;
+
+&lt;p&gt;These Pants keep the outdoors on my mind, but I wear them exclusively indoors after I get the tattoo on my thigh. These are the only pants I own that are loose around the top of my legs, so I wear them basically nonstop for a month, until it heals. I thought I would be wearing dresses when I got it done, but it is a cold April in Boston 2014, so the entire campus has seen These Pants.&lt;/p&gt;
+
+&lt;!-- This is the picture I brought that the artist traced onto my leg. Now it’s immortalized right next to the patch of freckles on my left thigh. --&gt;
+
+&lt;p&gt;The tattoo is a Koru spiral — a shape which I learned about nearly ten months before, in our class together, Man-From-Whom-I-Stole-These-Pants. You remember. The spiral represents how we all start our lives in one place, but we grow and change in different ways throughout our lives, getting further and further from our starting place, taking longer to make wide-reaching changes to ourselves, but always with a connection to our center. We often find amber capsules of our old selves, way points we pass in our journeys through life, in artifacts. In the old Maori days, it was with tools, or pounamu jewelry (pictured left), or even with mental connections to sacred places. Nowadays, it can be with old diaries or trinkets, like music boxes or stuffed animals. It can be with smells like Grandma’s kitchen before the pinched nerve, when her hands were still good enough to bake. It can be with a pair of earrings, shoes, or pants.&lt;/p&gt;
+
+&lt;p&gt;These Pants are perfect for making memories at home. Because they are so easily washable after they charge through wilderness, it doesn’t feel bad to get them messy when I make art. This is how These Pants get the red and pink splotch of oil paint in the inside of the left thigh — right over the tattoo — as I make an attempt at an oil painting of an Autumnal Forest. I give that painting to Rhyan when she moves to New York. I lie when I say I don’t like it because it’s no good (it isn’t) but she disagrees and takes it with her, to reminder her of me in her new apartment. I’m glad, because I’m secretly quite proud of it. When I visit her, it hangs in her bedroom.&lt;/p&gt;
+
+&lt;!-- In this photo, but not visible: These Pants --&gt;
+
+&lt;p&gt;Two summers after These Pants and I met, we started a new urban adventure in the form of Sports, and I discovered they are unmatched in the area of sideline clothing. These Pants have consequently watched countless ultimate frisbee games at Harvard Stadium, and belayed countless partners up the walls at Rumney. They have cheered for the All Blacks, the New Zealand national rugby team; The Red Sox, my favorite American League baseball team (don’t worry, I’ll always be a Giants fan); The Leaf Cutters, my Costa Rican destination tournament ultimate team. These Pants stay warm even on drizzly tournament days that the team hopes will be rain outs, but never are. They slip on over uniform shorts and off over cleats, and they don’t mind when the wind kicks up dust storms on unkempt fields.&lt;/p&gt;
+
+&lt;!-- Our campsite last night. These Pants blocked by a very exciting bell pepper. --&gt;
+
+&lt;p&gt;These Pants have been covered in every substance I encounter with any frequency. From sideline dust to sand, water, beer, bug spray, sunscreen, ink, paint, maple syrup, hot sauce, mud, dog saliva, pizza, peanut butter, pond scum, ketchup (or tomahto sauce as the case may be), barbecue sauce, chocolate, sawdust, white-out, glue, acrylic, guacamole, bacon grease, bicycle grease, ocean water, lake water, tree sap, coffee, metallic silver film development bath, pastels, molten wax, pastry dough, cinnamon, honey, hand sanitizer, cat hair, dog hair, horse hair, vinegar, hair spray, glitter, whiskey, hair dye — but These Pants don’t mind my sloppiness; they welcome being a part of the experiences. Everything has a story behind it. Everything washes out. Everything, somehow, except the smell of smoke. These Pants smell like hot summer campfire nights of eating three s’mores made with jumbo marshmallows. Of snowy ice-climbing with quasi-strangers in the White Mountains. Of cooking meat on an open fire where there are no bears, and foil packets filled with grilled vegetables where there are. They smell like the flameless embers that are the only things that singe tiny holes into their calves when I add pinecones to flames that are already high enough. They smell like soot and ash that rise when I kick over the last log under the stars right before I sleep. These Pants smell like both the beginnings and ends of adventures.&lt;/p&gt;
+
+&lt;p&gt;And so, Man-From-Whom-I-Stole-These-Pants, I would like to thank you. Thank you for the joy and warmth and comfort of the past four years. Thank you for the excuse and ability to go outside on spontaneous trips. For helping me pack for 72 hours in 5 minutes. Thank you for the innumerable sunrises and sets and their accompanying dusks and dawns, for the unimaginable beauty I am so grateful to witness. Thank you for this morning, in a grove of trees in front of a glassy lake with my best friends asleep behind me. Thank you for These Pants.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="outdoors" /><category term="fleece pants" /><category term="go outside" /><summary type="html">Just some great pants.</summary></entry><entry><title type="html">AI, Racism, and Bad Data</title><link href="https://csaund.github.io/posts/2017/04/ai-racism-data/" rel="alternate" type="text/html" title="AI, Racism, and Bad Data" /><published>2017-04-19T00:00:00-04:00</published><updated>2017-04-19T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2017/04/blog-post-3</id><content type="html" xml:base="https://csaund.github.io/posts/2017/04/ai-racism-data/">&lt;p&gt;Dark skin and Scottish accents and societally engrained biases, oh my!&lt;/p&gt;
+
+&lt;h1 id=&quot;ya-done-goofd&quot;&gt;Ya Done Goof’d&lt;/h1&gt;
+&lt;p&gt;Google recently screwed the pooch with their image recognition.
+&lt;br /&gt;
+&lt;img src=&quot;/images/google.png&quot; /&gt;
+&lt;br /&gt;
+And who can forget Microsoft’s very own version of Tomi Lahren?
+&lt;br /&gt;
+&lt;img src=&quot;/images/tay.png&quot; /&gt;
+&lt;br /&gt;
+“humans are super cool” → “I hate the jews” &amp;lt; 24hrs. Nice work, trolls.&lt;/p&gt;
+
+&lt;p&gt;Tay perfectly represents the fact that the data we get from humans is shit, because there are a bunch of shit humans.
+The point is, Google and Microsoft responded to these upsets by acknowledging them. Microsoft immediately shut down Tay (not before the world got those sweet screenshots) and responded with&lt;/p&gt;
+
+&lt;p&gt;We are deeply sorry for the unintended offensive and hurtful tweets from Tay, which do not represent who we are or what we stand for, nor how we designed Tay. Tay is now offline and we’ll look to bring Tay back only when we are confident we can better anticipate malicious intent that conflicts with our principles and values.&lt;/p&gt;
+
+&lt;p&gt;Sorry, M Dawg, but the point is you didn’t design Tay. Microsoft created a bot for man to shape In His Own Image™, specifically void of direction or bias. And the point is just that: unbiased data begets bias. If the world is terrible, AI will learn to be terrible.
+If we randomly sample a room of computer science degrees, our data looks bad. If we want 100 pictures of faces to train our algorithm on, this is what our data looks like:
+&lt;br /&gt;
+80 men, 20 women &lt;br /&gt;
+58 white, 18 asian, 9 latino, 5 black, and 10 multiracial. &lt;br /&gt;
+Shocking nobody, the way an algorithm will achieve the highest accuracy rate is by really nailing the most common demographics: white, male faces.&lt;/p&gt;
+
+&lt;h2 id=&quot;it-feels-like-the-first-time&quot;&gt;It Feels Like The First Time&lt;/h2&gt;
+&lt;p&gt;At my company, I was the first female voice that our bot heard. And the fact of the matter his he didn’t recognize what I was saying because the audio waveform that is generated when I speak into his microphones differed sufficiently from all his previous examples, that he couldn’t recognize my voice as saying his name. And that’s okay! For a long time, he had trouble with children’s voices, too, because it’s much easier to get an adult to stand around saying “hey robot,” for 30 repetitions during working hours at the office than it is to acquire kiddos for a robot-name-saying sweat shop.&lt;/p&gt;
+
+&lt;p&gt;I work in robotics. As in, I write software that could be running anywhere, but happens to run on a little robot buddy, Bob, who sits on the counter, swivels towards you when he hears you come in, recognizes that he knows you, says “oh, good morning, Caro! Nice to see you today,” and makes a &lt;em&gt;wheee&lt;/em&gt; noise. Or, he could be doing his own thing, and I could say “oh hey Bob,” and he might say “howdy Caro!” Then we share a smile and my day is made slightly better by the impression that my little bot is happy to see me.&lt;/p&gt;
+
+&lt;p&gt;A big part of that is the “happy to see me,” part. In order for him to say “howdy Caro!” and not “top of the mornin’ to ya, Freddy,” or “well fancy meeting you here, Clyde,” he has to run a face or voice recognition algorithm on the inputs of his environment — namely, my face and voice. But the tricky part is obviously that my face and voice change depending on other factors in the environment; in a dark room my housemates might not even know I’m there, let alone recognize me. In an echo-y church with a truck driving by, my voice might be indistinguishable from my friends’. And that’s not even to mention that my face looks different from different angles, and my voice varies from Frog (when I wake up) to Drunk Hamster (when I’m highly caffeinated… or drunk).&lt;/p&gt;
+
+&lt;p&gt;In order to be robust against these changes, Bob needs training data. Not only on me, but on what a face looks like. And in order to do that, he needs to look at a lot of faces. And in order to look at a lot of faces, the people who program Bob’s algorithms will probably show them their own face, a lot of times.&lt;/p&gt;
+
+&lt;p&gt;And lo, the training data for these algorithms reflects the people who program them, and predominantly white, male, and middle-aged people become what Bob knows.&lt;/p&gt;
+
+&lt;p&gt;See, it’s nobody’s fault that Bob has never seen the rainbow of people that exist throughout the world. Bob’s nursery &lt;/p&gt;
+
+&lt;p&gt;Should we be cognizant when learning algorithms reflect biases that already exist in the world? Most assuredly, yes. But what I don’t get is the outrage, the hate, and the anti-tech sentiments that seem to follow. Just like people go out and learn social biases from one another, so too will algorithms specifically designed to learn from the humans that surround it. If you want, you can think of an AI as a baby, constantly absorbing and integrating every new piece of information in order to act similarly to other agents in its environment. And, just like when children hear their parents curse and consequently tell their teachers to go fuck themselves, AI bots and algorithms will be sexist, racist shitlords if they read every tweet ever.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JAfevpoWtR4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+I don’t really get it, but here, have some kids cussing.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-we-gonna-fix-it-fix-it-fixit&quot;&gt;How We Gonna Fix It, Fix It, Fix It&lt;/h2&gt;
+&lt;p&gt;Baby, I gotta know. Can you fix my B-R-A-I-N? &lt;/p&gt;
+
+&lt;p&gt;Oversampling from different populations; explicitly biasing your training data to do better. Hard to test, unless you GET MORE DATA.&lt;/p&gt;
+
+&lt;p&gt;As my coworker says: 
+patrick [10:27] 
+We want Jibo to be the best he can be, but the world is a dark and scary place and so we must arm him with good morals and a solid work ethic before we send him out into the world alone.&lt;/p&gt;
+
+&lt;p&gt;But as he also says:
+patrick [10:29]
+Of course, we can always OTA better morals. &lt;/p&gt;
+
+&lt;p&gt;And that’s the moral [HA] of the story: AI as a field is improving. Constantly. Exponentially. Continuously (and also sometimes step-wise). As more and more (deserved) hype bubbles around this issue, researchers listen and make improvements. &lt;/p&gt;
+
+&lt;p&gt;Is every research scientist an angel or a saint? No, of course not. But the most hardcore engineers are motivated by solving the friggin’ problem, and if the problem is that the state of the art face recognition algorithms can’t reliably recognize 14% of the US population, that’s at best an 86% success rate. And as my good friend Lemongrab says: UNACCEPTABLE.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/07So_lJQyqw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="ai" /><category term="social justice" /><category term="data" /><summary type="html">Dark skin and Scottish accents and societally engrained biases, oh my!</summary></entry><entry><title type="html">Paradox of Awareness</title><link href="https://csaund.github.io/posts/2016/08/paradox-awareness/" rel="alternate" type="text/html" title="Paradox of Awareness" /><published>2016-08-24T00:00:00-04:00</published><updated>2016-08-24T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2016/08/blog-post-1</id><content type="html" xml:base="https://csaund.github.io/posts/2016/08/paradox-awareness/">&lt;p&gt;Being a woman is really, really weird. As, I assume, being a man can be really, really weird. But I put forth the idea that being a woman leads to a constant rollercoaster of crazy second-guessing and walking a stupidly fine line between “being assertive” and “playing the victim.”&lt;/p&gt;
+
+&lt;p&gt;Here’s what’s up: nobody likes that sexism is a thing. I fucking hate that it’s a thing. Women don’t like it, men don’t like it, LGBT* communities don’t like it, bosses don’t like it, your mom and dad don’t like it, Obama doesn’t like it, nobody likes it. And nobody likes being accused of it, male or female (or non-binary), black or white, nocturnal or diurnal, land-dwelling or aquatic. Why do we have to talk about like it’s a thing? But here’s the thing: nobody likes experiencing it, either. So, sorry, we gotta talk about it.&lt;/p&gt;
+
+&lt;p&gt;Here’s just my experience, some of the time, being a woman. Every interaction is a second guess. All the symptoms I’ve been taught, I’ve also been also cautioned against (by myself, by my strong female mentors, by my male friends). There’s no winning. Every woman’s “cool side project” is Gender Equality.&lt;/p&gt;
+
+&lt;p&gt;Either we’re all crazy, and we prove men right that women are frivolous and irrational and can’t be trusted because we all victimize ourselves, or there really is a problem. But from the inside, it’s impossible to tell which it is. &lt;/p&gt;
+
+&lt;p&gt;My thinking is: there’s too much smoke for there to be no fire. As my wonderful friend, who’s a white man who works in tech, said: “If ten people say there’s an elephant in the room, I don’t need to see it to believe it’s there.” &lt;/p&gt;
+
+&lt;p&gt;Being aware of discrimination, subtle devaluing, this whole “man vs woman” thing, is to be forced to acknowledge it. By knowing it exists, women are brought into this paradox. Either IT’S REAL and women really are being subtly devalued, in which case good fucking luck walking the line between asserting yourself without over-compensating, OR IT’S NOT REAL and you’ve just victimized yourself, stop looking for sympathy you lazy do-nothing. &lt;/p&gt;
+
+&lt;p&gt;But at the same time, we need to be aware of it, so we don’t second guess ourselves and can call out bullshit when we see it. But then, are we looking for it?&lt;/p&gt;
+
+&lt;h1 id=&quot;questions-i-often-ask-myself&quot;&gt;Questions I Often Ask Myself&lt;/h1&gt;
+
+&lt;h2 id=&quot;am-i-allowed-to-be-uncomfortable&quot;&gt;Am I Allowed to be Uncomfortable?&lt;/h2&gt;
+&lt;p&gt;What is the best way to tell somebody when I feel uncomfortable? Am I taking this too personally? Is it appropriate for me to tell somebody that a comment made me uncomfortable? Should I go through HR so they don’t know it’s me? If they do know they made me uncomfortable, are they going to hate me? Will they not want to work with me? When we work together, will it be awkward? If they find out I told HR, will they tell other people that I’m sensitive? Will they stop inviting me out with the team? Does anybody else feel this is inappropriate? If I don’t speak up, will some other person who’s just as offended or hurt drop out? Do I owe it to all women everywhere to assert my discomfort?&lt;/p&gt;
+
+&lt;h2 id=&quot;does-everybody-feel-this-way&quot;&gt;Does Everybody Feel This Way?&lt;/h2&gt;
+&lt;p&gt;Every interaction is a second guess. &lt;/p&gt;
+
+&lt;p&gt;Did I really not talk as much as the guys in the meeting? Did I just imagine it? Did I really have anything to say that didn’t get said? Was I really about to say that before he did? Did he really just restate what I just said? &lt;/p&gt;
+
+&lt;p&gt;Is it just these specific leaders? Is it not the fact that we’re being led by mostly men, but in fact these specific men who have these specific styles of leadership that kinda seems like they think they’re the shit, and nothing deeper underpins it all? &lt;/p&gt;
+
+&lt;p&gt;Do men at the company have a hard time speaking up? Does everyone feel like they’re not being taken seriously? &lt;/p&gt;
+
+&lt;p&gt;Is it really the case that when Charles throws a marker across the room he’s still being a genius and we just need to massage his ego, but when Christie covers for his mistake she’s seen as careless for “forgetting” to attach a file in an email, sent for him? &lt;/p&gt;
+
+&lt;p&gt;Is Kevin really a genius for coming in and enforcing process, or did Kate really make honest attempts to put it in place but nobody took her seriously? &lt;/p&gt;
+
+&lt;p&gt;Does everybody feel this way?&lt;/p&gt;
+
+&lt;h2 id=&quot;am-i-personally-making-this-worse&quot;&gt;Am I Personally Making This Worse?&lt;/h2&gt;
+&lt;p&gt;If I, or we, all women, as a community, decide to stop talking about sexism, will it go away? Are we blowing things out of proportion? Am I making this a bigger deal than it is? &lt;/p&gt;
+
+&lt;p&gt;How could I possibly be making it a bigger deal than it is, when actual literal statistics show that it really is a thing? Is it a generational effect, and will go away with time? &lt;/p&gt;
+
+&lt;p&gt;Is everybody done talking about this, and me harping on it is only going to make enemies? Am I making my friends feel bad? Am I losing male allies by just stating my experiences an opinion? &lt;/p&gt;
+
+&lt;p&gt;How can I frame this to highlight that fixing this benefits everyone? How am I alienating men? How can I change that?&lt;/p&gt;
+
+&lt;h1 id=&quot;damn&quot;&gt;Damn.&lt;/h1&gt;
+&lt;p&gt;I’m not pretending to have an answer for this. I’m not going to preach advice about “Leaning In” or being a “strong woman.” I don’t have a solution. I’m going to carry on second-guessing nearly everything I do, and hope blindly that being hyper-aware of being hyper-aware can somehow cancel out the effects of pervasive sexism, a culture of hyper-sensitivity and self-victimization.&lt;/p&gt;
+
+&lt;p&gt;I’m sorry. I’m sorry if you’re a woman and you think that harping on this issue is shitty for minority communities, and I’m sorry if you’re a man and this makes you feel guilty and bad. I don’t want you to feel bad. I just want to give you a window into a shitty facet of how being a woman can feel.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="sexism" /><category term="women in tech" /><summary type="html">Being a woman is really, really weird. As, I assume, being a man can be really, really weird. But I put forth the idea that being a woman leads to a constant rollercoaster of crazy second-guessing and walking a stupidly fine line between “being assertive” and “playing the victim.”</summary></entry><entry><title type="html">Deep Learning, Evolution, and Why Intelligence is not (just) Recognition</title><link href="https://csaund.github.io/posts/2015/02/neurobrains/" rel="alternate" type="text/html" title="Deep Learning, Evolution, and Why Intelligence is not (just) Recognition" /><published>2015-03-23T00:00:00-04:00</published><updated>2015-03-23T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2015/02/blog-post-7</id><content type="html" xml:base="https://csaund.github.io/posts/2015/02/neurobrains/">&lt;p&gt;There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-neural-nets-in-context-of-computers&quot;&gt;What are Neural Nets in Context of Computers?&lt;/h3&gt;
+&lt;p&gt;Before I go on, let me give a high-level description of what exactly us nerds mean when we say “neural network.” Unfortunately for those of us trained in biology or neuroscience, it’s not as straightforward as it sounds. Also unfortunately for those of us trained in computer science, it’s not as easy as it seems on the surface. Really only statisticians win here.&lt;/p&gt;
+
+&lt;p&gt;Neural nets are, in some ways, similar to the biological network of our brain circuitry. On one end, you get some input. Then, it goes through multiple hidden layers of processing, resulting in some output, or set of outputs — just like how when I get surprised, I both jump and shriek a little. The difference is the way in which these hidden layers are connected and influence each other. Each inner layer is made of nodes (“neurons”) which transform the input in some way, and then passes that transformed stuff to the next layer until it looks like reasonable output.&lt;/p&gt;
+
+&lt;p&gt;The trick is that the weights with which each layer influences the next, and even which nodes within each layer influence the next, change over time based on feedback. That gradual change in weights which slowly produces better and better output is what is canonically referred to as learning. The rate that these weights change, the number of layers used, the number of nodes per layer, are all parameters to this algorithm that are arguably the main areas of research currently being conducted on neural nets.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-neural-nets-could-solve-everything&quot;&gt;Why Neural Nets Could Solve Everything&lt;/h3&gt;
+&lt;p&gt;This multi-layer network is important because it is a composition of non-linear transformations. At least in image recognition, the idea is that multiple levels of representation correspond to multiple layers of abstraction about a scene. But this jumps beyond just seeing a shovel and labeling it as such (or calling a spade a spade, if you will). It is tempting to believe that with enough layers of abstraction, this network could form a sophisticated conceptual hierarchy, not dissimilar from our own classifications of the world. Without difficulty, we can imagine SuperVision, our ILSVRC winner in 2012, being plugged into a neural network trained to perfectly pronounce things it reads, and suddenly we have a machine which both recognizes objects in an image and talks about them, from one algorithm.&lt;/p&gt;
+
+&lt;p&gt;Some say we can go deeper.&lt;/p&gt;
+
+&lt;p&gt;If each task can eventually be solved perfectly with a neural network, and we plug all those little modules together, we see an intelligent machine. Better yet, one giant neural network (say, 100 billion of them and a whole lot of compute) that manages to learn extremely complex tasks based on intricate reward and punishment systems, like how we brush our teeth every night because otherwise, at some unknown future point, with some unknown probability, we get a cavity. We cannot think of this net as the ones that exist currently which are trained to do one specific task; this net is, itself, a learner. It not only learns how to perform tasks, but which tasks it needs to learn in order to achieve its goals.&lt;/p&gt;
+
+&lt;h3 id=&quot;neural-nets-vs-human-behavior&quot;&gt;Neural Nets vs. Human Behavior&lt;/h3&gt;
+&lt;p&gt;The problem lies in the deterministic nature of these networks [Major disclaimer: technically neural nets are necessarily probabilistic but in such a way that my following statements are true enough to retain their purpose]. If a thousand neural nets of the same complexity are trained on the same data, they will answer questions about new input in the same way. There is some variation, surely, based on the way the weights between layers is initialized (randomly? heuristically? all set to 0?), but generally the same learning rate means the same results, and that is not how humans work. If you show my brother a picture of a train, he will probably start talking about the mechanics of trains. Which is cool, but if you ask me, not nearly as cool as all the people with suitcases getting on and off, going about their day. And that is partly because, over our lifetimes of experience, we have become attracted to different things.&lt;/p&gt;
+
+&lt;p&gt;But how much of that attraction is predetermined? Maybe I was just born to be more interested in people than my brother was. Or maybe I got along with more people as a child, because I was more outgoing, because I got along with more people, because I… talked sooner? Didn’t argue as much? Have more motor control over tiny facial muscles? It is not the origin of this preference, but the fact that it may exist, which is the key here. To say people are born with different inclinations is certainly to say that at least some part of our behavior is predetermined — or at least pre-boosted to be more likely in some people than others. And the notion that my preference may in fact have been a butterfly effect of learned behavior sort of flies in the face of our current concepts of nature vs. nurture.&lt;/p&gt;
+
+&lt;p&gt;Where this connects back to deep learning is this compounded learning effect. Could a sufficiently complex neural network, with a sufficient amount of training data (like, say, a lifetime of experience), pass as a human? Tomaso Poggio of MIT has coined the term “super Turing Test,” which refers to the idea of a machine which mimics human behavior — vision, language, motion, creativity, everything — so perfectly that it is indistinguishable from the real deal.&lt;/p&gt;
+
+&lt;p&gt;To harken back to the biological influences of our beautiful selves, let’s consider how this might work in human evolution. DNA is information in an intensely compact form. Storing information in genes is expensive. In the midst of all that important “let’s add another lung to the left side” and “a spinal cord would look nice here” there is only so much space to encode behavior to increase fitness. Yet, there are some things which we should probably know from day 1, like maybe don’t wander off in the dark, or touch that giant hairy thing with fangs. So, if we think of genes as biological “nodes” in our neural net, some of the influences (weights) might be pre-initialized in dramatic ways — our “stay away from cliff” node starts with a weight of +10,000. This still leaves room for behaviors that aren’t so important for fitness to not be “hardwired” in, and to in fact be learnt on the fly. Suddenly, there’s potential for a whole realm of human behaviors that our body (and genes) never really cared about, like, say, texting etiquette. This is the evolution/survival basis of the argument that neural nets could in fact be a perfect model for human behavior.&lt;/p&gt;
+
+&lt;p&gt;But deep learning networks, even the most complex that exist, are still only descriptive.&lt;/p&gt;
+
+&lt;h3 id=&quot;mistakes-and-fundamental-differences-in-creative-and-descriptive-thought&quot;&gt;Mistakes and Fundamental Differences in Creative and Descriptive Thought&lt;/h3&gt;
+&lt;p&gt;Let’s talk about an element of what makes human intelligence unique. The fact that people often act illogically or inconsistently with their (stated) primary goals lead to creative experiences. Granted, most people are trying to maximize multiple objectives — financial security, personal happiness, physical comfort are all pretty common — so to calculate the specific “value” of an action may not be something humans can consciously do. It is possible, of course, that at every given point the brain is calculating the exact expected value of every action without our knowledge, and those complex calculations make seemingly illogical behavior look attractive. Or, just like current models of machine learning, our brain balances the “explore/exploit” tradeoff (which is exactly what it sounds like: do something that you know is good all the time, or take a risk doing something new that could be better), and this is the origin of our irrationality.&lt;/p&gt;
+
+&lt;p&gt;The fact that people don’t always behave reasonably (at least to other people) is indisputable, but whether or not that is a part of the definition of human intelligence is debatable. Worse yet, there is no way to prove experimentally that irrational actions do or do not hinder personal progress! There is no rigorously scientific, sufficiently complex designed scenario which could viably prove with subjects and controls that behavior incongruous with the pursuit of goals in fact hinders the achievement of those goals in a meaningful way (quality, speed of accomplishment, etc).&lt;/p&gt;
+
+&lt;p&gt;Consider, for example, the anecdotal success stories of tech giants or which we are all so fond. Certainly, dropping out of university to pursue company growth is the exception to the rule in terms of chugging along towards maximum productivity, yet it turned out pretty well for some of our favorite entrepreneurs. One could argue these individuals are just more inclined to “explore” rather than “exploit.” A psychologist would be quick to point out their engagement in high-risk behavior is significantly above your average Joe. And I feel comfortable asserting that these major success stories have inspired hoards of other young, charismatic tech nerds to explore a whole lot more than they otherwise would have. Startup fever plagues the young tech scene, for better or worse. Most start-ups fail, or get gobbled up by larger companies. The high-risk, high-success individuals inspire followers, yet no ultimate strategy has been established. This is at least partly because those whose companies fail still manage to find success along the way. The process of starting a company leads to large human networks, strong technical skills, and a plethora of business smarts that make people highly employable. Even the “failures” end up with success.&lt;/p&gt;
+
+&lt;p&gt;So, does it matter that people make “mistakes?”&lt;/p&gt;
+
+&lt;p&gt;Maybe. Certainly not no. But also probably (?) not yes. I can safely say that my tryst abroad — perhaps a career “mistake” — has afforded me numerous advantages over my peers, such as contacts at tech scenes around the world, a broader global perspective to draw on to solve problems, and more empathy for unexplored cultures. As a result, I think in a fundamentally different way than I did, and than my peers do. But again, there is no way to empirically test whether or not this experience will eventually lead to an advantage for me.&lt;/p&gt;
+
+&lt;p&gt;So, it is difficult to tell whether a deeply complex, intelligent neural net will have trouble acting in ways which only may result in marginal payoffs, eventually, which I personally consider to be integral to human behavior and intelligence, despite controversy over whether it is ultimately counterproductive, which is unprovable.&lt;/p&gt;
+
+&lt;p&gt;The second big issue with calling neural nets a panacea for the AI community is creativity. Creative, generative thought is fundamentally different than descriptive, analytic, and deterministic behavior. Every piece of art ever made by a computer has lines of code behind it that are static, and can only ever produce a finite number of artistic permutations on an idea. It is not until another programmer comes in and writes something new that the computer can do anything differently.&lt;/p&gt;
+
+&lt;p&gt;For the young’uns out there who took AP or IB foreign language exams in high school, you’ll remember the oral section in which students are shown a strip of pictures and have to make up a story about what is going on. Mine was a cartoonish depiction of a girl getting onto a train (what is it with trains in this article?), then talking with somebody, then the two of them getting off at a different stop. Now ignoring the fact that I accidentally talked about this poor girl and boy in a war (seriously, gare and guere aren’t that hard to confuse as a monolingual sophomore!) I made up a pretty good story. And everybody else in my class came up with a different one. The boy was her brother, boyfriend, teacher, train conductor, total stranger, whatever! The simple strip of pictures implies an infinite story-space.&lt;/p&gt;
+
+&lt;p&gt;This is the area where I believe computers will struggle. The crux of the artificially intelligent machine is that imagination is hard. Neuroscientists do not like to study it because it is difficult to quantify. Psychologists do not like to study it because it does not result in observable behavior — or at least not directly. Computer scientists do not study it because they’re computer scientists and actually that is a pretty good excuse. We have no idea how to build or even measure what makes humans unique without so much as a semblance of understanding of our infinite imaginations.&lt;/p&gt;
+
+&lt;p&gt;…So?
+Honestly, most realistic applications of artificial intelligence do not want human-like machines. We call for inferential intelligence (“What is that?” instead of “What is that spikey pink thing in the fruit bowl that wasn’t there before?”) and an idiot-savant-like genius in specific fields (“I don’t know what’s wrong with my car, just fix it!), but as soon as our machines have agency, we have to deal with them. Emotions are hard for humans, and the struggle of free-will is even harder. Most subfields of AI do not strive for consciousness and creativity. Those are for humans. Those are sacred.&lt;/p&gt;
+
+&lt;p&gt;But still, machine learning needs to be socially accepted in order to fully progress. Until it is widely embraced by an informed public, it will suffer from being misconstrude and misunderstood. By framing the intelligence of machines with a human lens, we make computers relatable. Perhaps when we foster a friendly relationship with computers, we will see their full capabilities.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="tech" /><category term="ai" /><category term="deep learning" /><summary type="html">There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!</summary></entry><entry><title type="html">Actually, What Tim Hunt Said Was Bad.</title><link href="https://csaund.github.io/posts/2014/08/tim-hunt/" rel="alternate" type="text/html" title="Actually, What Tim Hunt Said Was Bad." /><published>2014-08-24T00:00:00-04:00</published><updated>2014-08-24T00:00:00-04:00</updated><id>https://csaund.github.io/posts/2014/08/blog-post-2</id><content type="html" xml:base="https://csaund.github.io/posts/2014/08/tim-hunt/">&lt;p&gt;When loving, well-meaning men in my life don’t understand the problem with gender separation, I try to write.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-happened&quot;&gt;What Happened&lt;/h1&gt;
+&lt;p&gt;What Tim Hunt Said&lt;/p&gt;
+
+&lt;p&gt;“Let me tell you about my trouble with girls. Three things happen when they are in the lab: You fall in love with them, they fall in love with you, and when you criticize them they cry.”&lt;/p&gt;
+
+&lt;p&gt;What Tim Hunt Said In His Apology &lt;/p&gt;
+
+&lt;p&gt;“I did mean the part about having trouble with girls. I have fallen in love with people in the lab and people in the lab have fallen in love with me, and it’s very disruptive to the science because it’s terribly important that in a lab people are on a level playing field.&lt;/p&gt;
+
+&lt;p&gt;It’s terribly important that you can criticize people’s ideas without criticizing them and if they burst into tears, it means that you tend to hold back from getting at the absolute truth. Science is about nothing but getting at the truth, and anything that gets in the way of that diminishes, in my experience, the science.”&lt;/p&gt;
+
+&lt;p&gt;So, why is what he said such a big deal? Let’s pick apart his statement chronologically.&lt;/p&gt;
+
+&lt;h2 id=&quot;let-me-tell-you-about-my-trouble-with-girls&quot;&gt;“Let Me Tell You About My Trouble With Girls”&lt;/h2&gt;
+&lt;p&gt;To me, and to many professional women, we are now expecting Tim Hunt to talk about how he dislikes attending pink-princess themed birthday parties and shrieking blonde pony-tailed 8-year-olds, because that sounds like a group of girls with which he, or I, or some PTA parents might have trouble. Because “girls” is the operative word in that sentence. Putting aside the fact that this statement sets up sweeping generalizations about half of the population (or more like 1/8th if we were defining girls as actually young members of the human population), “girls” carries with it a host of derogatory connotations. “Girls” implies young, immature, silly, and giggly. Interestingly, I might say that “boy” implies the same, except maybe also with “into digging up worms.” But Tim Hunt doesn’t refer to “girls and boys” in the lab — he refers only to the girls. &lt;/p&gt;
+
+&lt;p&gt;Now, that isn’t so bad. It is insulting and behind the times, and generally inadvisable at a scientific conference with any women, or really any men who appreciate women on any level, and it passively puts down and belittles women in STEM and their accomplishments, but it really is not worth the backlash.&lt;/p&gt;
+
+&lt;h2 id=&quot;three-things-happen-when-they-are-in-the-lab&quot;&gt;“Three things happen when they are in the lab.”&lt;/h2&gt;
+&lt;p&gt;Woo-hoo! More sweeping generalizations coming right up!&lt;/p&gt;
+
+&lt;p&gt;That’s okay, is he going to talk about how women bring different life experiences to STEM fields than men bring and it’s important that women’s perspectives help guide the direction of scientific inquiry and product design? Is he going to say that for the good of science and engineering, we need to recruit the most talented people to STEM fields and that not including half the population (women) in the pool of possible scientists and engineers is short-sighted and self-limiting? Oh! I hope he talks about how when women are involved in scientific discovery they have access to higher-paying jobs which begins the long cycle of slowly integrating true gender equality in our society!&lt;/p&gt;
+
+&lt;h2 id=&quot;you-fall-in-love-with-them-they-fall-in-love-with-you-and-when-you-criticize-them-they-cry&quot;&gt;“You fall in love with them, they fall in love with you, and when you criticize them they cry.”&lt;/h2&gt;
+&lt;p&gt;Womp womp. So, he boils down the essence of women working alongside men in science to entirely emotional realms, completely leaving out the science. &lt;/p&gt;
+
+&lt;p&gt;So, “You fall in love with them.” Presumably, he’s not just talking about himself. Although, to be completely honest, I’m not sure what the problem is. I’ve worked in labs with men and women who were single, dating, married, exes, attractive, unattractive, queer (we’ll skip that gay men obviously can’t do science because of the ‘love’ thing for now) or whathaveyou. The biggest supporter of Tim Hunt I know is a product of his own parents meeting at work. The workplace, even the scientific one, advisably should but need not necessarily be a place void of emotion. &lt;/p&gt;
+
+&lt;p&gt;Tim Hunt would probably say that romantic feelings for somebody clouds your ability to interact with them purely, and so it can color the truth of the science. And this is really even worse. Because this not only asserts that women are purely emotional (remember no mention of logical or scientific contributions when women are in the lab), but also that given that women are emotional (again, according to Tim Hunt), they detract from science. This not only asserts that women’s emotions are wildly out of control (falling in love with whoever happens to be in the lab — “hey, we have a mutual interest in micropipeting!”) but that emotion cannot be separated from work. Segmenting work and personal life may not be the play for Mr. Hunt, but this statement shows a lack of respect for that choice or even the ability to make it. Pitting “good science” against “falling in love” is an interesting choice, and not one that I quite understand. &lt;/p&gt;
+
+&lt;p&gt;The kicker is, because he prefaces this with “when women are in the lab,” he is not claiming this about men. This statement disregards that men fall in love with their coworkers, too (hell, sometimes it’s even mutual), and so even if we’re pretending that romantic attraction is the worst thing in the world when it comes to research, he puts blame for his perceived troubles on the women. &lt;/p&gt;
+
+&lt;p&gt;That is really what this statement boils down to: he puts blame on women for his own shortcomings. And it is this idea that pervades scientific communities and acts as a major barrier against women in STEM.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-you-criticize-them-they-cry&quot;&gt;“When you criticize them, they cry.”&lt;/h2&gt;
+&lt;p&gt;More sweeping generalizations, essentially calling women weak and unable to handle truthful feedback. I really do not see why I should have to explain why this is an unacceptable thing to say, but I suppose I can try. &lt;/p&gt;
+
+&lt;p&gt;I would wager that women, on average, cry more and are more comfortable crying than men. This is for a whole host of reasons, including engrained cultural masculinity that is also a problem, but I digress. Tim Hunt has already insulted an entire gender pretty readily and thoughtlessly, so it’s not strange to me to hear that in Tim Hunt’s long career as a scientist, he has probably made a woman or two cry. You know, it’s not even strange to me that crying happens in the lab. As said before, emotion and logic need not be separated, and I can envision a world in which I spend years working on a project to discover that when it came down to the wire I had made a simple mistake under the stress and in my own frustration, I might cry. That doesn’t sound far-fetched, and it doesn’t sound like a problem. &lt;/p&gt;
+
+&lt;p&gt;I guess I just do not believe that every woman that Tim Hunt has ever worked with cries when she is criticized, and that no man has ever felt equivalently frustrated or hurt, but not cried. I also guess I just do not believe that the brilliant women Tim Hunt has worked with are so afraid of criticism that they cry at every turn. There are many reasons I don’t believe this — some being personal (I cry tears OF JOY when someone gives me feedback and I can noticeably improve), and some being a simple faith in humanity that the scientific institution has effectively weeded out most people who do not believe in actively improving themselves and are resistant to change for the better. &lt;/p&gt;
+
+&lt;p&gt;So, maybe Mr. Hunt is talking about one or two bad experiences, but those are all he has to go by, and so a much higher percentage of women he has worked with have been resistant to criticism than the men. That is a plausible explanation why he could have confused limited experiences with an entire gender. Not an excuse, but a plausible explanation. &lt;/p&gt;
+
+&lt;p&gt;So all in all, he makes sweeping generalizations about women, and while he says nothing of their accomplishments in the way of science, asserts that their presence in the lab detracts from all of science and basically they should just stay away. &lt;/p&gt;
+
+&lt;p&gt;Let’s look at it this way: I could make an equivalently brash and insulting statement like “Three things happen when men are in the lab. They hit on you, they get all the credit when you do joint collaborations, and when you criticize them they get defensive.”&lt;/p&gt;
+
+&lt;h1 id=&quot;the-apology&quot;&gt;The Apology&lt;/h1&gt;
+&lt;p&gt;“I did mean the part about having trouble with girls. I have fallen in love with people in the lab and people in the lab have fallen in love with me, and it’s very disruptive to the science because it’s terribly important that in a lab people are on a level playing field.&lt;/p&gt;
+
+&lt;p&gt;It’s terribly important that you can criticize people’s ideas without criticizing them and if they burst into tears, it means that you tend to hold back from getting at the absolute truth. Science is about nothing but getting at the truth, and anything that gets in the way of that diminishes, in my experience, the science.”&lt;/p&gt;
+
+&lt;h2 id=&quot;i-have-fallen-in-love-with-people-in-the-lab-and-people-in-the-lab-have-fallen-in-love-with-me-and-its-very-disruptive-to-the-science-because-its-terribly-important-that-in-a-lab-people-are-on-a-level-playing-field&quot;&gt;“I have fallen in love with people in the lab and people in the lab have fallen in love with me, and it’s very disruptive to the science because it’s terribly important that in a lab people are on a level playing field.”&lt;/h2&gt;
+&lt;p&gt;As I argued before, I do not see how falling in love with somebody in the lab puts people on an uneven playing field. Unless he is talking about his time perhaps as or as attracted to a superior, in which case I can see how that detracts. But that also sounds like a personal problem. If I fall in love with somebody at my place of work — and let’s say, for the sake of argument, they don’t fall in love back — I do not see how that bars me from being the same rational, thinking human that was granted the position in the first place. I guess I simply do not see it as a problem. If they fall in love back, cool, now I’m dating somebody and one of us might consider leaving because that could get awkward, but for now it’s okay, let’s keep doing our jobs. If they don’t, that’s cool, I’ll get over it because it can’t have been that serious. &lt;/p&gt;
+
+&lt;p&gt;If we are talking about superiors, though, that’s an entirely different story, and I don’t blame Mr. Hunt for being distracted by it. But it also blames the presence of women in the lab for this awkward situation. It creates this sort of “well, this is a problem, and we were here first so finders-keepers”-y tone. He took a personal problem that he had, and blamed not himself and his own inability to separate work and his romantic feelings, but women. &lt;/p&gt;
+
+&lt;p&gt;So, I guess this kind of owns up to that message, but really only partially.&lt;/p&gt;
+
+&lt;h2 id=&quot;its-terribly-important-that-you-can-criticize-peoples-ideas-without-criticizing-them-and-if-they-burst-into-tears-it-means-that-you-tend-to-hold-back-from-getting-at-the-absolute-truth-science-is-about-nothing-but-getting-at-the-truth-and-anything-that-gets-in-the-way-of-that-diminishes-in-my-experience-the-science&quot;&gt;“It’s terribly important that you can criticize people’s ideas without criticizing them and if they burst into tears, it means that you tend to hold back from getting at the absolute truth. Science is about nothing but getting at the truth, and anything that gets in the way of that diminishes, in my experience, the science.”&lt;/h2&gt;
+&lt;p&gt;I think most people would agree that it’s terribly important, in science, to be able to criticize people’s ideas without criticizing them. I certainly see this as an important factor, and most scientists &lt;em&gt;probably&lt;/em&gt; do as well. But here’s the thing: this statement paints all women as weepy messes unable to cope with being criticized. Aside from the fact that if I make someone cry, I think about what I might have done to facilitate that instead of discredit them as unable to cope, the fact of the matter is this is a “Tim Hunt” problem, not a women problem. If he is really about the science and emotions should be entirely separate from the lab, and he believes he has chosen his words carefully so as to criticize the ideas rather than the individual, he should not care if he makes anybody cry. If he holds back from “getting at the absolute truth,” that is his fault, and he blames women for feeling guilty. &lt;/p&gt;
+
+&lt;p&gt;The bottom line is Tim Hunt is an internationally renown scientist, who spoke at an internationally watched event. With his honor and notoriety comes a responsibility to choose his presence and message carefully, and he either meant exactly what he said, or no longer deserves a public stage for his inability to do so.&lt;/p&gt;</content><author><name>Carolyn Saund</name><email>carolyn.saund@gmail.com</email></author><category term="social justice" /><category term="sexism" /><category term="technology" /><summary type="html">When loving, well-meaning men in my life don’t understand the problem with gender separation, I try to write.</summary></entry></feed>

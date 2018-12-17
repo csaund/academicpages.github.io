@@ -1,0 +1,492 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Deep Learning, Evolution, and Why Intelligence is not (just) Recognition - Carolyn Saund</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Carolyn Saund">
+<meta property="og:title" content="Deep Learning, Evolution, and Why Intelligence is not (just) Recognition">
+
+
+  <link rel="canonical" href="https://csaund.github.io/posts/2015/02/neurobrains/">
+  <meta property="og:url" content="https://csaund.github.io/posts/2015/02/neurobrains/">
+
+
+
+  <meta property="og:description" content="There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!">
+
+
+
+  <meta name="twitter:site" content="@CarolynBot">
+  <meta name="twitter:title" content="Deep Learning, Evolution, and Why Intelligence is not (just) Recognition">
+  <meta name="twitter:description" content="There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!">
+  <meta name="twitter:url" content="https://csaund.github.io/posts/2015/02/neurobrains/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2015-03-23T00:00:00-04:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Carolyn Saund",
+      "url" : "https://csaund.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://csaund.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Carolyn Saund Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://csaund.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://csaund.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://csaund.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://csaund.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://csaund.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://csaund.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://csaund.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://csaund.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://csaund.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://csaund.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://csaund.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://csaund.github.io/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://csaund.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://csaund.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://csaund.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://csaund.github.io/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://csaund.github.io/">Carolyn Saund</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/cv/">CV</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/talks/">Public Speaking</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/experience/">Experience</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/service/">Service & Memberships</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/projects/">Projects</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/year-archive/">Blog</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://csaund.github.io/education/"></a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://csaund.github.io/images/profile.png" class="author__avatar" alt="Carolyn Saund">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Carolyn Saund</h3>
+    <p class="author__bio">PhD Student at University of Glasgow, previously Cogito Corp, Jibo. She/Hers</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Glasgow, UK</li>
+      
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> University of Glasgow</li>
+      
+      
+      
+        <li><a href="mailto:carolyn.saund@gmail.com"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+      
+      
+      
+        <li><a href="https://twitter.com/CarolynBot"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/carolyn-saund-89b90b63"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/csaund"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Deep Learning, Evolution, and Why Intelligence is not (just) Recognition">
+    <meta itemprop="description" content="There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!">
+    <!--<meta itemprop="datePublished" content="March 23, 2015">-->
+    <!---->
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Deep Learning, Evolution, and Why Intelligence is not (just) Recognition
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  14 minute read
+	
+</p>
+          
+        <!---->
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2015-03-23T00:00:00-04:00">March 23, 2015</time></p>
+        
+        
+             
+        
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>There has been a lot of talk recently about Deep Learning. Namely, how its recent resurgence is kicking ass across the board on machine learning benchmarks left and right. At the 2010 (and 2012) ImageNet Large Scale Image Recognition Competition, a group from University of Toronto, led by Geoffrey Hinton, built a neural net which outperformed the competition by 10% reduction in classification error rate (misrecognizing an image, so saying a picture that is in fact of a magnifying glass is a photo of scissors). This essentially brought neural networks back into play for the field of computer vision, where it dominates what most of us consider to be the coolest latest technology. Facebook’s face recognition? Neural network. Google’s self-driving cars? Controlled by neural nets. The tempting logical jump to make here is: artificial intelligence? Let’s just use a neural net!</p>
+
+<h3 id="what-are-neural-nets-in-context-of-computers">What are Neural Nets in Context of Computers?</h3>
+<p>Before I go on, let me give a high-level description of what exactly us nerds mean when we say “neural network.” Unfortunately for those of us trained in biology or neuroscience, it’s not as straightforward as it sounds. Also unfortunately for those of us trained in computer science, it’s not as easy as it seems on the surface. Really only statisticians win here.</p>
+
+<p>Neural nets are, in some ways, similar to the biological network of our brain circuitry. On one end, you get some input. Then, it goes through multiple hidden layers of processing, resulting in some output, or set of outputs — just like how when I get surprised, I both jump and shriek a little. The difference is the way in which these hidden layers are connected and influence each other. Each inner layer is made of nodes (“neurons”) which transform the input in some way, and then passes that transformed stuff to the next layer until it looks like reasonable output.</p>
+
+<p>The trick is that the weights with which each layer influences the next, and even which nodes within each layer influence the next, change over time based on feedback. That gradual change in weights which slowly produces better and better output is what is canonically referred to as learning. The rate that these weights change, the number of layers used, the number of nodes per layer, are all parameters to this algorithm that are arguably the main areas of research currently being conducted on neural nets.</p>
+
+<h3 id="why-neural-nets-could-solve-everything">Why Neural Nets Could Solve Everything</h3>
+<p>This multi-layer network is important because it is a composition of non-linear transformations. At least in image recognition, the idea is that multiple levels of representation correspond to multiple layers of abstraction about a scene. But this jumps beyond just seeing a shovel and labeling it as such (or calling a spade a spade, if you will). It is tempting to believe that with enough layers of abstraction, this network could form a sophisticated conceptual hierarchy, not dissimilar from our own classifications of the world. Without difficulty, we can imagine SuperVision, our ILSVRC winner in 2012, being plugged into a neural network trained to perfectly pronounce things it reads, and suddenly we have a machine which both recognizes objects in an image and talks about them, from one algorithm.</p>
+
+<p>Some say we can go deeper.</p>
+
+<p>If each task can eventually be solved perfectly with a neural network, and we plug all those little modules together, we see an intelligent machine. Better yet, one giant neural network (say, 100 billion of them and a whole lot of compute) that manages to learn extremely complex tasks based on intricate reward and punishment systems, like how we brush our teeth every night because otherwise, at some unknown future point, with some unknown probability, we get a cavity. We cannot think of this net as the ones that exist currently which are trained to do one specific task; this net is, itself, a learner. It not only learns how to perform tasks, but which tasks it needs to learn in order to achieve its goals.</p>
+
+<h3 id="neural-nets-vs-human-behavior">Neural Nets vs. Human Behavior</h3>
+<p>The problem lies in the deterministic nature of these networks [Major disclaimer: technically neural nets are necessarily probabilistic but in such a way that my following statements are true enough to retain their purpose]. If a thousand neural nets of the same complexity are trained on the same data, they will answer questions about new input in the same way. There is some variation, surely, based on the way the weights between layers is initialized (randomly? heuristically? all set to 0?), but generally the same learning rate means the same results, and that is not how humans work. If you show my brother a picture of a train, he will probably start talking about the mechanics of trains. Which is cool, but if you ask me, not nearly as cool as all the people with suitcases getting on and off, going about their day. And that is partly because, over our lifetimes of experience, we have become attracted to different things.</p>
+
+<p>But how much of that attraction is predetermined? Maybe I was just born to be more interested in people than my brother was. Or maybe I got along with more people as a child, because I was more outgoing, because I got along with more people, because I… talked sooner? Didn’t argue as much? Have more motor control over tiny facial muscles? It is not the origin of this preference, but the fact that it may exist, which is the key here. To say people are born with different inclinations is certainly to say that at least some part of our behavior is predetermined — or at least pre-boosted to be more likely in some people than others. And the notion that my preference may in fact have been a butterfly effect of learned behavior sort of flies in the face of our current concepts of nature vs. nurture.</p>
+
+<p>Where this connects back to deep learning is this compounded learning effect. Could a sufficiently complex neural network, with a sufficient amount of training data (like, say, a lifetime of experience), pass as a human? Tomaso Poggio of MIT has coined the term “super Turing Test,” which refers to the idea of a machine which mimics human behavior — vision, language, motion, creativity, everything — so perfectly that it is indistinguishable from the real deal.</p>
+
+<p>To harken back to the biological influences of our beautiful selves, let’s consider how this might work in human evolution. DNA is information in an intensely compact form. Storing information in genes is expensive. In the midst of all that important “let’s add another lung to the left side” and “a spinal cord would look nice here” there is only so much space to encode behavior to increase fitness. Yet, there are some things which we should probably know from day 1, like maybe don’t wander off in the dark, or touch that giant hairy thing with fangs. So, if we think of genes as biological “nodes” in our neural net, some of the influences (weights) might be pre-initialized in dramatic ways — our “stay away from cliff” node starts with a weight of +10,000. This still leaves room for behaviors that aren’t so important for fitness to not be “hardwired” in, and to in fact be learnt on the fly. Suddenly, there’s potential for a whole realm of human behaviors that our body (and genes) never really cared about, like, say, texting etiquette. This is the evolution/survival basis of the argument that neural nets could in fact be a perfect model for human behavior.</p>
+
+<p>But deep learning networks, even the most complex that exist, are still only descriptive.</p>
+
+<h3 id="mistakes-and-fundamental-differences-in-creative-and-descriptive-thought">Mistakes and Fundamental Differences in Creative and Descriptive Thought</h3>
+<p>Let’s talk about an element of what makes human intelligence unique. The fact that people often act illogically or inconsistently with their (stated) primary goals lead to creative experiences. Granted, most people are trying to maximize multiple objectives — financial security, personal happiness, physical comfort are all pretty common — so to calculate the specific “value” of an action may not be something humans can consciously do. It is possible, of course, that at every given point the brain is calculating the exact expected value of every action without our knowledge, and those complex calculations make seemingly illogical behavior look attractive. Or, just like current models of machine learning, our brain balances the “explore/exploit” tradeoff (which is exactly what it sounds like: do something that you know is good all the time, or take a risk doing something new that could be better), and this is the origin of our irrationality.</p>
+
+<p>The fact that people don’t always behave reasonably (at least to other people) is indisputable, but whether or not that is a part of the definition of human intelligence is debatable. Worse yet, there is no way to prove experimentally that irrational actions do or do not hinder personal progress! There is no rigorously scientific, sufficiently complex designed scenario which could viably prove with subjects and controls that behavior incongruous with the pursuit of goals in fact hinders the achievement of those goals in a meaningful way (quality, speed of accomplishment, etc).</p>
+
+<p>Consider, for example, the anecdotal success stories of tech giants or which we are all so fond. Certainly, dropping out of university to pursue company growth is the exception to the rule in terms of chugging along towards maximum productivity, yet it turned out pretty well for some of our favorite entrepreneurs. One could argue these individuals are just more inclined to “explore” rather than “exploit.” A psychologist would be quick to point out their engagement in high-risk behavior is significantly above your average Joe. And I feel comfortable asserting that these major success stories have inspired hoards of other young, charismatic tech nerds to explore a whole lot more than they otherwise would have. Startup fever plagues the young tech scene, for better or worse. Most start-ups fail, or get gobbled up by larger companies. The high-risk, high-success individuals inspire followers, yet no ultimate strategy has been established. This is at least partly because those whose companies fail still manage to find success along the way. The process of starting a company leads to large human networks, strong technical skills, and a plethora of business smarts that make people highly employable. Even the “failures” end up with success.</p>
+
+<p>So, does it matter that people make “mistakes?”</p>
+
+<p>Maybe. Certainly not no. But also probably (?) not yes. I can safely say that my tryst abroad — perhaps a career “mistake” — has afforded me numerous advantages over my peers, such as contacts at tech scenes around the world, a broader global perspective to draw on to solve problems, and more empathy for unexplored cultures. As a result, I think in a fundamentally different way than I did, and than my peers do. But again, there is no way to empirically test whether or not this experience will eventually lead to an advantage for me.</p>
+
+<p>So, it is difficult to tell whether a deeply complex, intelligent neural net will have trouble acting in ways which only may result in marginal payoffs, eventually, which I personally consider to be integral to human behavior and intelligence, despite controversy over whether it is ultimately counterproductive, which is unprovable.</p>
+
+<p>The second big issue with calling neural nets a panacea for the AI community is creativity. Creative, generative thought is fundamentally different than descriptive, analytic, and deterministic behavior. Every piece of art ever made by a computer has lines of code behind it that are static, and can only ever produce a finite number of artistic permutations on an idea. It is not until another programmer comes in and writes something new that the computer can do anything differently.</p>
+
+<p>For the young’uns out there who took AP or IB foreign language exams in high school, you’ll remember the oral section in which students are shown a strip of pictures and have to make up a story about what is going on. Mine was a cartoonish depiction of a girl getting onto a train (what is it with trains in this article?), then talking with somebody, then the two of them getting off at a different stop. Now ignoring the fact that I accidentally talked about this poor girl and boy in a war (seriously, gare and guere aren’t that hard to confuse as a monolingual sophomore!) I made up a pretty good story. And everybody else in my class came up with a different one. The boy was her brother, boyfriend, teacher, train conductor, total stranger, whatever! The simple strip of pictures implies an infinite story-space.</p>
+
+<p>This is the area where I believe computers will struggle. The crux of the artificially intelligent machine is that imagination is hard. Neuroscientists do not like to study it because it is difficult to quantify. Psychologists do not like to study it because it does not result in observable behavior — or at least not directly. Computer scientists do not study it because they’re computer scientists and actually that is a pretty good excuse. We have no idea how to build or even measure what makes humans unique without so much as a semblance of understanding of our infinite imaginations.</p>
+
+<p>…So?
+Honestly, most realistic applications of artificial intelligence do not want human-like machines. We call for inferential intelligence (“What is that?” instead of “What is that spikey pink thing in the fruit bowl that wasn’t there before?”) and an idiot-savant-like genius in specific fields (“I don’t know what’s wrong with my car, just fix it!), but as soon as our machines have agency, we have to deal with them. Emotions are hard for humans, and the struggle of free-will is even harder. Most subfields of AI do not strive for consciousness and creativity. Those are for humans. Those are sacred.</p>
+
+<p>But still, machine learning needs to be socially accepted in order to fully progress. Until it is widely embraced by an informed public, it will suffer from being misconstrude and misunderstood. By framing the intelligence of machines with a human lens, we make computers relatable. Perhaps when we foster a friendly relationship with computers, we will see their full capabilities.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#ai" class="page__taxonomy-item" rel="tag">ai</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#deep-learning" class="page__taxonomy-item" rel="tag">deep learning</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://csaund.github.io/tags/#tech" class="page__taxonomy-item" rel="tag">tech</a>
+    
+    </span>
+  </p>
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=https://csaund.github.io/posts/2015/02/neurobrains/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://csaund.github.io/posts/2015/02/neurobrains/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=https://csaund.github.io/posts/2015/02/neurobrains/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://csaund.github.io/posts/2015/02/neurobrains/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://csaund.github.io/posts/2014/08/tim-hunt/" class="pagination--pager" title="Actually, What Tim Hunt Said Was Bad.
+">Previous</a>
+    
+    
+      <a href="https://csaund.github.io/posts/2016/08/paradox-awareness/" class="pagination--pager" title="Paradox of Awareness
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<!-- <a href="/sitemap/">Sitemap</a> -->
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/CarolynBot"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+      <li><a href="http://github.com/csaund"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://csaund.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 Carolyn Saund. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://csaund.github.io/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+
