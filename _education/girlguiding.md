@@ -1,10 +1,11 @@
 ---
-title: "Citizenship / Girl Guiding"
+title: "Girl Guiding"
 collection: education
 type: "Tutorial"
 permalink: /service/girlguiding
 venue: "Volunteer"
 date: 2018-09-21
+enddate: 2019-03-01
 location: "Glasgow, UK"
 ---
 

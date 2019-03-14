@@ -1,5 +1,5 @@
 ---
-title: "Citizenship / Cambridge Inventors Club"
+title: "Cambridge Inventors Club"
 collection: education
 type: "Tutorial"
 permalink: /service/cic

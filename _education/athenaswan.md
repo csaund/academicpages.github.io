@@ -1,5 +1,5 @@
 ---
-title: "Department / Athena SWAN"
+title: "Athena SWAN"
 collection: education
 type: "Tutorial"
 permalink: /service/athenaswan

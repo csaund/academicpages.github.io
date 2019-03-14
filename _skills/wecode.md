@@ -1,5 +1,5 @@
 ---
-title: "Presentation / WECode"
+title: "WECode"
 collection: talks
 permalink: /talks/WECode
 venue: "Abstraction and API Design"

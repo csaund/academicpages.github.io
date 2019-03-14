@@ -1,5 +1,5 @@
 ---
-title: "Department / Student Representative"
+title: "Student Representative"
 collection: education
 type: "Tutorial"
 permalink: /service/src

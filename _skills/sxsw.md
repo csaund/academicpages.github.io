@@ -1,5 +1,5 @@
 ---
-title: "Workshop / SXSW"
+title: "SXSW"
 collection: talks
 type: "Undergraduate course"
 permalink: /talks/sxsw

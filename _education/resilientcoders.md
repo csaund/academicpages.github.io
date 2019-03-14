@@ -1,5 +1,5 @@
 ---
-title: "Citizenship / Resilient Coders"
+title: "Resilient Coders"
 collection: education
 type: "Tutorial"
 permalink: /service/cic

@@ -1,5 +1,5 @@
 ---
-title: "Presentation / Women in Technology Conference"
+title: "Women in Technology Conference"
 collection: talks
 type: "Undergraduate course"
 permalink: /talks/wics

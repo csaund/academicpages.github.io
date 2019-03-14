@@ -1,5 +1,5 @@
 ---
-title: "Presentation / Boston ML Meetup"
+title: "Boston ML Meetup"
 collection: talks
 type: "Undergraduate course"
 permalink: /talks/bostonml

@@ -1,5 +1,5 @@
 ---
-title: "Workshop / MLHacks"
+title: "MLHacks"
 collection: experience
 type: "Undergraduate course"
 permalink: /talks/mlh

@@ -1,5 +1,5 @@
 ---
-title: "Presentation / Lesbians Who Tech"
+title: "Lesbians Who Tech"
 collection: talks
 permalink: /talks/lwt
 venue: "\"Alexa, Read the Room.\""

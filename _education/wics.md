@@ -1,5 +1,5 @@
 ---
-title: "Department / Women in Computer Science"
+title: "Women in Computer Science"
 collection: education
 type: "Tutorial"
 permalink: /service/wics
