@@ -1,14 +1,17 @@
 ---
-title: "Ultimate Frisbee Coach"
+title: "Ultimate Frisbee"
 collection: education
 type: "Tutorial"
 permalink: /service/ultimate
-venue: "Coach"
+venue: "Coach / Committee Member"
 date: 2019-03-03
 location: "Glasgow, UK"
 ---
 
-I coach secondary school aged mixed and girls' ultimate frisbee team. I care deeply
-about this because kids learn so much about resilience, delayed gratification, and
-working together from organized team sports, but the details aren't particularly interesting
-unless you also play ultimate.
+
+<ul>
+<li>Coach secondary school mixed and girls' ultimate frisbee team.</li>
+<li>Developed training plans, tournaments, and drills for teams.</li>
+<li>Member of executive committee for University of Glasgow Ultimate Frisbee team.</li>
+<li>Organized logistics of large-scale social events with club members with focus on inclusivity.</li>
+</ul>
