@@ -14,3 +14,7 @@ location: "Glasgow, UK"
 <li>Facilitate and mentor high school robotics team.</li>
 <li>Regularly volunteer with primary schools to teach STEAM lessons about team-based engineering.</li>
 </ul>
+
+![alt text][stem-ambassadors]
+
+[stem-ambassadors]: ../../images/stem_coding.jpg "coding unplugged at Gavinburn primary school"
