@@ -11,3 +11,5 @@ location: "Glasgow, UK"
 Team lead for designing, organizing, and teaching 3-day datascience workshop including
 data mining, visualizations, and website hosting using R and R Studio for novices in
 qualitative research.
+
+Funded by Scottish Graduate School of Social Sciences
