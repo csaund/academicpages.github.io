@@ -1,5 +1,5 @@
 ---
-title: "Speaker and Pannelist at Interactions: A Play About AI In The Future"
+title: "Speaker and Pannelist at Interactions: The Future of AI"
 collection: talks
 permalink: /talks/ai-play
 venue: "Glasgow Theater Company"
