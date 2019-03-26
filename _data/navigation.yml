@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Journals & Conferences"
+    url: /publications/
 
   - title: "Blog"
     url: /year-archive/
