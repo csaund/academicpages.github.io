@@ -1,5 +1,5 @@
 ---
-title: "Psychological Statistics"
+title: "Psychological Statistics Workshop"
 collection: publications
 permalink: /publication/psych-stats
 excerpt: 'An ERASMUS joint effort across 16 universities to foster collaboration and
@@ -13,7 +13,6 @@ as a student showcase of an RShiny app.
 date: 2019-03-24
 enddate: 2019-03-29
 venue: 'Tools for Teaching Qualitative Thinking: Balatonföldvár'
-paperurl: 'https://github.com/csaund/psych-stats-workshop'
 ---
 An ERASMUS joint effort across 16 universities to foster collaboration and
 qualitative data analysis methods for students of Psychological Methods.
@@ -21,5 +20,5 @@ qualitative data analysis methods for students of Psychological Methods.
 Workshops on Copula Theory, Ising Models, Knowledge Space Theory, as well
 as a student showcase of an RShiny app.
 
-[See app here](https://github.com/csaund/psych-stats-workshop)
+[See app here](https://tquant.eu/online-learning-contents/r-shiny-apps/2019-seminar/)
 [See more information about the workshop here](https://tquant.eu/mobilities/2019-balatonfoldvar/)
