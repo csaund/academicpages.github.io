@@ -8,6 +8,8 @@ date: 2016-01-23
 location: "Austin, TX"
 ---
 
+<a href="https://github.com/csaund/presentations/blob/master/MLHPrime.pptx">slides</a>
+
 Technical Workshop on Jibo API: Quickstart
 <ul>
 <li> Getting Started </li>
