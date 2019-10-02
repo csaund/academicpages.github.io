@@ -9,4 +9,4 @@ location: "Glasgow, UK"
 ---
 
 Introduction to crowdsourcing for scientific data / workshop for Methods and Metascience group (professors
-  and graduate students in UofG Psychology). Slides coming soon.
+  and graduate students in UofG Psychology). <a href="https://github.com/csaund/presentations/blob/master/crowdsourcing_pres.pdf">Slides.</a> 
