@@ -15,9 +15,12 @@ Tufts University in May 2015, where I focused in Machine Learning and
 Artificial Intelligence. Afterwards, I spent three years as a Software
 Engineer and Manager at Jibo Inc. (social robotics) and Cogito Corp. (emotional AI).
 
-Currently, I am studying for my <b>PhD in Computational Social Intelligence</b> under the supervision of Dr. Stacy Marsella and Dr. Philippe Schyns. I use psychological and neuroimaging studies to create generative computational models of gestures to
-study human social cognition and behavior.
+I received my masters in Research Methods in Psychological Sciences from the University of Glasgow in September 2019. 
 
+Currently, I am studying for my <b>PhD in Computer Science</b> under the supervision of Dr. Stacy Marsella and Dr. Mary Ellen Foster at University of Glasgow.
+I use a combination of psychological experimental methods, machine learning, and user evaluation studies to understand the cognitive processes behind gesture. My thesis is in building a generative model for semantically meaningful social gesture for artificial agents. 
+
+Some of my other passions include scientific community engagement, STEM education, and community development through sport. 
 
 <!-- Getting started -->
 <!-- ====== -->
