@@ -11,16 +11,15 @@ redirect_from:
 You can download my [CV here](/files/csaund_resume.pdf)
 
 I received my BSc in Computer Science and Cognitive and Brain Sciences from
-Tufts University in May 2015, where I focused in Machine Learning and
-Artificial Intelligence. Afterwards, I spent three years as a Software
-Engineer and Manager at Jibo Inc. (social robotics) and Cogito Corp. (emotional AI).
+Tufts University, where I focused in Machine Learning and
+Artificial Intelligence. I then worked at Jibo Inc. and Cogito Corp. as a software engineer and manager.
 
 I received my masters in Research Methods in Psychological Sciences from the University of Glasgow in September 2019. 
 
-Currently, I am studying for my <b>PhD in Computer Science</b> under the supervision of Dr. Stacy Marsella and Dr. Mary Ellen Foster at University of Glasgow.
+Currently, I am studying for my <b>PhD in Computer Science</b> under the supervision of Stacy Marsella and Mary Ellen Foster at University of Glasgow.
 I use a combination of psychological experimental methods, machine learning, and user evaluation studies to understand the cognitive processes behind gesture. My thesis is in building a generative model for semantically meaningful social gesture for artificial agents. 
 
-Some of my other passions include scientific community engagement, STEM education, and community development through sport. 
+Some of my other passions include scientific community engagement, STEM education, data science for social good, and community development through sport. 
 
 <!-- Getting started -->
 <!-- ====== -->
