@@ -4,7 +4,7 @@ collection: education
 type: "Tutorial"
 permalink: /service/academicmemberships
 location: "Glasgow, UK"
-date: 2018-10-10
+date: 
 ---
 
 <ul>
@@ -15,4 +15,5 @@ date: 2018-10-10
 <li>British Neuroscience Association</li>
 <li>University of Glasgow Robotics Society</li>
 <li>University of Glasgow FemEng</li>
+<li>University of Glasgow Entrepreneurship Society</li>
 </ul>
