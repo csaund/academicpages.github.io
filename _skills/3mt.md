@@ -2,6 +2,9 @@
 title: "Three Minute Thesis finalist"
 collection: talks
 permalink: /talks/3MT
+venue: ""
+date: 01-01-2020
+location: "" 
 
 ---
 
