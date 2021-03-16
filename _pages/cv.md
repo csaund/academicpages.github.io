@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please [download a copy of my CV here](/files/csaund_resume.pdf)
+[Download a copy of my CV here](/files/csaund_resume.pdf)

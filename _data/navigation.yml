@@ -9,17 +9,11 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "Service & Memberships"
+  - title: "Leadership & Service"
     url: /service/
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Journals & Conferences"
+  - title: "Publications"
     url: /publications/
 
   - title: "Blog"
-    url: /year-archive/
-
-  - title: ""
-    url: /education/
+    url: /blog/
