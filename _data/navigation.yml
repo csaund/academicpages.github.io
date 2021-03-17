@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Public Talks" # this is skills
+  - title: "Talks & Events" # this is skills
     url: /talks/
 
   - title: "Experience"

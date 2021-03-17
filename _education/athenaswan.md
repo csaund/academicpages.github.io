@@ -5,6 +5,7 @@ type: "Tutorial"
 permalink: /service/athenaswan
 venue: "Committee Member"
 date: 2018-10-08
+enddate: 2020-02-10
 location: "Glasgow, UK"
 ---
 

@@ -5,6 +5,7 @@ type: "Tutorial"
 permalink: /service/journal-club
 venue: "Organizer"
 date: 2019-01-14
+enddate: 2020-02-02
 location: "Glasgow, UK"
 ---
 

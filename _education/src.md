@@ -5,6 +5,7 @@ type: "Tutorial"
 permalink: /service/src
 venue: "SRC Class Representative"
 date: 2018-09-21
+enddate: 2019-11-20
 location: "Glasgow, UK"
 ---
 
