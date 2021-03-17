@@ -19,7 +19,6 @@ judgements of videos of alterations of the naturally occurring
 gestures. Finally, we discuss the challenges for computationally
 modeling metaphoric gestures that are raised by our findings.'
 date: 2019-05-14
-enddate: 'none'
 venue: 'Affective Computing and Intelligent Interaction 2019'
 paperurl: 'https://www.researchgate.net/profile/Carolyn-Saund/publication/338201134_Multiple_metaphors_in_metaphoric_gesturing/links/5e13395e92851c8364b2a0a5/Multiple-metaphors-in-metaphoric-gesturing.pdf'
 ---
